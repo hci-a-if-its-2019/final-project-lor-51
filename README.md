@@ -5,8 +5,12 @@
 3. Elvega Dewangga - 05111640000149
 
 ---
+Project Topic : Craiglist Forum Session
+=============
+![](img/logo.png)
 
-#### Project Topic
+Craigslist is an American classified advertisements website with sections devoted to jobs, housing, for sale, items wanted, services, community service, gigs, résumés, and discussion forums
+
 **Craiglist** [Forum Session](https://forums.craigslist.org/?areaID=157)
 
 #### System Description

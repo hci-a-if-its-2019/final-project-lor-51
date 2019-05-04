@@ -14,8 +14,11 @@ Craigslist is an American classified advertisements website with sections devote
 **Craiglist** [Forum Session](https://forums.craigslist.org/?areaID=157)
 
 #### System Description
-Craiglist is one of the rare sites on the interweb where its platform doesn't sell advertisements. The site is purely run for non-profit reasons given to the community, so they are able to enjoy their rights. Most of what Craiglist offer are second hand product listings. Other than that, they have a forum - thread section, where Users can enjoy a free democratic discussion about anything. Craiglist's system requires a registered account to access its core features.
+Craiglist is one of the rare sites on the interweb where its platform doesn't sell advertisements. The site is purely run for non-profit reasons given to the community, so they are able to enjoy their rights. Most of what Craiglist offer are second hand product listings. Other than that, they have a forum/ thread section, where Users can enjoy a free democratic discussion about anything. Craiglist's system requires a registered account to access its core features.
 
-#### What's Bad About The Existing System
+#### What's Bad About The Existing System (Our analyses)
+It's obvious to the eyes that Craiglist's user interface isn't pleasing. It's dull, boring, and it seems they don't have a designer to sort it out. Our team has analysed the forum/ thread section activities.
 
+**What do we think about forums?**
+Online forums is a place of discussion. Where people can hold conversation in the form of posted messages. The messages are often longer than one line of text, which differs from chat messages. Discussions should be easily identifiable e.g. which person is talking to which person, or which comment is being replied etc.
 

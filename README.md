@@ -22,3 +22,9 @@ It's obvious to the eyes that Craiglist's user interface isn't pleasing. It's du
 **What do we think about forums?**
 Online forums is a place of discussion. Where people can hold conversation in the form of posted messages. The messages are often longer than one line of text, which differs from chat messages. Discussions should be easily identifiable e.g. which person is talking to which person, or which comment is being replied etc.
 
+**How Craiglist's forum is below standards?**
+1. Categories design is boring. Standard text label.
+2. All categories that aren't age appropriate are set to public.
+3. Misleading amount of threads label.
+4. Unclear thread replies.
+

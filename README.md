@@ -16,15 +16,31 @@ Craigslist is an American classified advertisements website with sections devote
 #### System Description
 Craiglist is one of the rare sites on the interweb where its platform doesn't sell advertisements. The site is purely run for non-profit reasons given to the community, so they are able to enjoy their rights. Most of what Craiglist offer are second hand product listings. Other than that, they have a forum/ thread section, where Users can enjoy a free democratic discussion about anything. Craiglist's system requires a registered account to access its core features.
 
-#### What's Bad About The Existing System (Our analyses)
+#### What's Bad About The Existing System
 It's obvious to the eyes that Craiglist's user interface isn't pleasing. It's dull, boring, and it seems they don't have a designer to sort it out. Our team has analysed the forum/ thread section activities.
 
 **What do we think about forums?**
 Online forums is a place of discussion. Where people can hold conversation in the form of posted messages. The messages are often longer than one line of text, which differs from chat messages. Discussions should be easily identifiable e.g. which person is talking to which person, or which comment is being replied etc.
 
-**How Craiglist's forum is below standards?**
-1. Categories design is boring. Standard text label.
-2. All categories that aren't age appropriate are set to public.
-3. Misleading amount of threads label.
-4. Unclear thread replies.
+**Instruction Script**
+1. Find the category with the highest number of threads.
+2. Search a category.
+3. Reply to a thread.
+4. Rate a thread/ reply.
 
+**User Description**
+
+
+**Transcript**
+
+
+**How Craiglist's forum is below standards?**
+
+
+![Forum categories](img/forum1.png)
+*Image 1.1: The categories label can be a bit more stylish. Categories that are explicit should not be made public, we censored it with a red line.*
+
+----
+
+![Forum categories](img/forum1.png)
+*Image 1.1: The categories label can be a bit more stylish. Categories that are explicit should not be made public, we censored it with a red line.*

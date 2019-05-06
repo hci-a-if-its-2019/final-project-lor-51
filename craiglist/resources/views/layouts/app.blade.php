@@ -16,7 +16,9 @@
 </head>
 <body>
     @include('partials.header')
-        @yield('content')
+    
+    @yield('content')
+
     @include('partials.footer')
     <!-- jQuery Plugins -->
     <script src="{{asset('callie/js/jquery.min.js')}}"></script>

@@ -170,6 +170,30 @@
 								<li><a href="#">Technology <span>40</span></a></li>
 								<li><a href="#">Travel <span>38</span></a></li>
 								<li><a href="#">Health <span>24</span></a></li>
+
+								<li><a href="?forumID=5178" target="_top">android forum <span class="threadcount">4</span></a></li>
+								<li><a href="?forumID=3232" target="_top">apple / mac <span class="threadcount">23</span></a></li>
+								<li><a href="?forumID=49" target="_top">arts forum <span class="threadcount">10</span></a></li>
+								<li><a href="?forumID=1564" target="_top">astrophysics <span class="threadcount">17</span></a></li>
+								<li><a href="?forumID=78" target="_top">atheism <span class="threadcount">82</span></a></li>
+								<li><a href="?forumID=5" target="_top">automotive <span class="threadcount">43</span></a></li>
+								<li><a href="?forumID=88" target="_top">beauty / fashion</a></li>
+								<li><a href="?forumID=95" target="_top">bicycling <span class="threadcount">25</span></a></li>
+								<li><a href="?forumID=6151" target="_top">bisexuality</a></li>
+								<li><a href="?forumID=4664" target="_top">boomers <span class="threadcount">46</span></a></li>
+								<li><a href="?forumID=129" target="_top">car free <span class="threadcount">6</span></a></li>
+								<li><a href="?forumID=47" target="_top">celebrity gossip <span class="threadcount">23</span></a></li>
+								<li><a href="?forumID=128" target="_top">cl - categories <span class="threadcount">8</span></a></li>
+								<li><a href="?forumID=1" target="_top">cl - cities/sites <span class="threadcount">1</span></a></li>
+								<li><a href="?forumID=8" target="_top">cl - feedback <span class="threadcount">43</span></a></li>
+								<li><a href="?forumID=3" target="_top">cl - flag help <span class="threadcount">286</span></a></li>
+								<li><a href="?forumID=9" target="_top">cl - help desk <span class="threadcount">47</span></a></li>
+								<li><a href="?forumID=3132" target="_top">cl - maps <span class="threadcount">2</span></a></li>
+								<li><a href="?forumID=1872" target="_top">classical music <span class="threadcount">3</span></a></li>
+								<li><a href="?forumID=34" target="_top">computer forum <span class="threadcount">33</span></a></li>
+								<li><a href="?forumID=83" target="_top">crafts forum <span class="threadcount">3</span></a></li>
+								<li><a href="?forumID=123" target="_top">dance <span class="threadcount">6</span></a></li>
+							
 							</ul>
 						</div>
 					</div>

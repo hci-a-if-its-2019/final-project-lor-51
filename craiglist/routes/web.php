@@ -22,3 +22,4 @@ Route::get('/forums', 'PageController@forumsList')->name('forums.list');
 Route::get('/forum/thread', 'PageController@threadPost')->name('thread');
 Route::post('/add/comment', 'PageController@addComment');
 Route::post('/add/reply', 'PageController@addReply');
+Route::get('categories/{name}/{amount}/threads', 'PageController@viewPostCategories');

@@ -35,5 +35,9 @@ class PageController extends Controller
           	'message' => $request->message,
       	]);
     	return redirect()->back();
-    }
+	}
+	
+	public function viewPostCategories($name, $amount) {
+		return view('posts', ['name' => $name, 'amount' => $amount]);
+	}
 }

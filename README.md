@@ -23,18 +23,23 @@ It's obvious to the eyes that Craiglist's user interface isn't pleasing. It's du
 Online forums is a place of discussion. Where people can hold conversation in the form of posted messages. The messages are often longer than one line of text, which differs from chat messages. Discussions should be easily identifiable e.g. which person is talking to which person, or which comment is being replied etc.
 
 **Preliminary Interview Questions**
-1. Are you a sociable person?
-2. Are you updated with hot trends?
-3. Do you like to discuss new ideas?
-4. Have you used online discussions? How familiar are you with it?
-5. Do you prefer offline or online discussions?
+1. did you ever use soscial media before?
+2. how often you use social media?
+3. Are you updated with new trends?
+4. Do you like to discuss new ideas?
+5. Have you used online discussions? How familiar are you with it?
+6. do you usually discuss something in front of strangers?
+7. Do you prefer offline or online discussions?
 
 **Instruction Script**
-1. Find the category with the highest number of threads.
-2. Search a category.
-3. Reply to a thread.
-4. Rate a thread/ reply.
-
+1. Try to Login
+2. Find the category with the highest number of threads.
+3. Search a category.
+4. sort the forum  to older frist
+5. Reply to a thread.
+6. Rate a thread/ reply.
+7. create a new forum
+8. change the theme
 **User Description**
 
 

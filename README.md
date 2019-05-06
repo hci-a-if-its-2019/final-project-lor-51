@@ -22,6 +22,13 @@ It's obvious to the eyes that Craiglist's user interface isn't pleasing. It's du
 **What do we think about forums?**
 Online forums is a place of discussion. Where people can hold conversation in the form of posted messages. The messages are often longer than one line of text, which differs from chat messages. Discussions should be easily identifiable e.g. which person is talking to which person, or which comment is being replied etc.
 
+**Preliminary Interview Questions**
+1. Are you a sociable person?
+2. Are you updated with hot trends?
+3. Do you like to discuss new ideas?
+4. Have you used online discussions? How familiar are you with it?
+5. Do you prefer offline or online discussions?
+
 **Instruction Script**
 1. Find the category with the highest number of threads.
 2. Search a category.

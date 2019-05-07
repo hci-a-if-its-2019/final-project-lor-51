@@ -57,13 +57,13 @@ Online forums is a place of discussion. Where people can hold conversation in th
 
 ##### Participant 1
 
-<<<<<<< Updated upstream
+
 - A male, 21 years old.
 - A student of ITS Industrial Engineering.
 - He had experienced about using social media / forum.
 - He several times asking about his academic problem/question academic to the internet.
 
-##### Transcript
+##### Transcript 1
 =======
 ##### Participant 2
 
@@ -80,8 +80,7 @@ Online forums is a place of discussion. Where people can hold conversation in th
 - A male, 21 years old.
 - A student of ITS
 - He had experienced about using social media / forum.
-- He several times asking about his academic problem/question academic to the internetg
->>>>>>> Stashed changes
+- He several times asking about his academic problem/question academic to the internet
 ```
 1.  Me  : Halo, terimakasih sebelumnya sudah mau bergabung dalam wawancara kali ini
 2.  Him : Sama-sama

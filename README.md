@@ -57,12 +57,31 @@ Online forums is a place of discussion. Where people can hold conversation in th
 
 ##### Participant 1
 
+<<<<<<< Updated upstream
 - A male, 21 years old.
 - A student of ITS Industrial Engineering.
 - He had experienced about using social media / forum.
 - He several times asking about his academic problem/question academic to the internet.
 
 ##### Transcript
+=======
+##### Participant 2
+
+##### Participant 3
+- A male, 21 years old.
+- A student of ubaya
+- He had experienced about using social media / forum.
+- not realy enjoy socialising
+##### Participant 4
+
+##### Participant 5
+
+##### Participant 6- A male, 21 years old.
+- A male, 21 years old.
+- A student of ITS
+- He had experienced about using social media / forum.
+- He several times asking about his academic problem/question academic to the internetg
+>>>>>>> Stashed changes
 ```
 1.  Me  : Halo, terimakasih sebelumnya sudah mau bergabung dalam wawancara kali ini
 2.  Him : Sama-sama
@@ -124,7 +143,39 @@ todo: Ha
 
 ##### Transcript
 ```
-todo: Su
+[00:00] Me  : have you ever used social media before
+[00:06] Him : Pernah
+[00:10] Me  : How often you used it each day
+[00:13] Him : I always use it when my times is free
+[00:31] Me  : are you update with new trend
+[00:36] Him : no
+[00:41] Me  : Do you like to discuss new ideas?
+[00:49] Him : Not really
+[01.01] Me  : Have you used online discussions? How familiar are you with it?
+[01.16] Him : I just read it without submiting any coment . but yea im familiar with it
+[01.30] Me  : Do you usually discuss something in front of strangers?
+[01.40] Him : never
+[02.11] Me  : Do you prefer offline or online discussions?
+[02.21] Him : depend on there are free time or not
+[02.35] Me  : (explain what is craiglist forum and that what we need is to review the aplication not the user)
+[02.56] Me : Try to Login.
+[03.01] Him  : (he could find login button without any problem)
+[03.35] Me  : Find the category with the highest number of threads.
+[03.37] Him : (trying to search it one by one, take a long time ) 
+[04.23] Me  : Search a category.
+[04.30] Him : (easly find it but there are no result)
+[05.01] Me  : try to open one of them than reply the thread
+[05.12] Him : (cant find the reply button)
+[06.01] Me  :  Sort the forum  to older frist
+[06.08] Him : (changing the page)
+[06.30] Me  : (telling that what he did was changing the page not sort it , ask him to find another button)
+[06.35] Him : im confused (cant find the sort button)
+[07.01] Me  : Rate a thread
+[07.10] Him : hahaha (just laughing but cant find the rate button)
+[07.31] Me  : flag a thread
+[07.35] Him : sorry i still cant find it
+[08.05] Me  : its ok , now try to make new forum
+[08.09] Him : (he cant find the button)
 ```
 
 ##### Participant 4
@@ -149,5 +200,35 @@ todo: Ha
 
 ##### Transcript
 ```
-todo: Su
+[00:00] Me  : have you ever used social media before
+[00:06] Him : yes
+[00:08] Me  : How often you used it
+[00:10] Him : i use it every day
+[00:18] Me  : are you update with new trend
+[00:21] Him : not really
+[00:27] Me  : Do you like to discuss new ideas?
+[00:34] Him : No
+[00.41] Me  : Have you used online discussions? How familiar are you with it?
+[01.04] Him : yes if i that discussion seems interesting
+[01.16] Me  : Do you usually discuss something in front of strangers?
+[01.31] Him : if necessary
+[01.43] Me  : Do you prefer offline or online discussions?
+[01.48] Him : depend on there are free time or not
+[01.57] Me  : (explain what is craiglist forum and that what we need is to review the aplication not the user)
+[02.30] Me : Try to Login.
+[02.35] Him  : (he could find login button without any problem)
+[03.15] Me  : Find the category with the highest number of threads.
+[03.25] Him : (trying to search it one by one, take a long time ) 
+[03.47] Me  : Search a category.
+[03.55] Him : (easly find it but there are no result)
+[04.15] Me  : try to open one of them than reply the thread
+[04.18] Him : (Take a long time to find it)
+[05.25] Me  : Rate a thread
+[05.28] Him : (easily find it)
+[05.35] Me  : flag a thread
+[05.43] Him : (easily find it )
+[05.52] Me  :  Sort the forum  to older frist
+[05.55] Him : (changing the page)
+[06.30] Me  : make new forum
+[06.47] Him : (he can find the button)
 ```

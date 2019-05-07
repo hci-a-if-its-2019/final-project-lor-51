@@ -29,29 +29,29 @@ Online forums is a place of discussion. Where people can hold conversation in th
 
 ----
 
-![Forum categories](img/forum1.png)
-*Image 1.1: The categories label can be a bit more stylish. Categories that are explicit should not be made public, we censored it with a red line.*
+![Forum tree](img/forum2.jpg)
+*Image 1.2: Forum reply created in a tree style, this style is less efficient and not elegant when the thread has a lot of replies.*
 
 ## Contextual Inquiry
 ### Instruction Script
 #### Preliminary Interview Questions
-1. did you ever use soscial media before?
-1. how often you use social media?
+1. Did you ever use soscial media before?
+1. How often you use social media?
 1. Are you updated with new trends?
 1. Do you like to discuss new ideas?
 1. Have you used online discussions? How familiar are you with it?
-1. do you usually discuss something in front of strangers?
+1. Do you usually discuss something in front of strangers?
 1. Do you prefer offline or online discussions?
 
 #### Specific Instructions
-1. Try to Login
+1. Try to Login.
 1. Find the category with the highest number of threads.
 1. Search a category.
-1. sort the forum  to older frist
 1. Reply to a thread.
-1. Rate a thread/ reply.
-1. create a new forum
-1. change the theme
+1. Sort the forum  to older frist.
+1. Rate a thread / reply.
+1. Flag a thread / reply.
+1. Create a new forum.
 
 #### User Description
 
@@ -71,6 +71,28 @@ todo: Ha
 ```
 
 ##### Participant 3
+
+##### Transcript
+```
+todo: Su
+```
+
+##### Participant 4
+
+##### Transcript
+```
+todo: Ar
+```
+
+
+##### Participant 5
+
+##### Transcript
+```
+todo: Ha
+```
+
+##### Participant 6
 
 ##### Transcript
 ```

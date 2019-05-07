@@ -184,7 +184,42 @@ todo: Ha
 - Updated about new trends.
 ##### Transcript
 ```
-todo: Ar
+1.  Me  : Halo, Apakah anda pernah menggunakan media sosial sebelumnya?
+2.  Her : Pernah, juga menggunakan beberapa media sosial
+3.  Me  : Seberapa sering anda menggunakannya?
+4.  Her : Sangat sering, setiap saat
+5.  Me  : Apakah kamu mengetahui berita dan trend terbaru?
+6.  Her : Cukup mengetahui, tetapi hanya pada tema tema tertentu saja
+7.  Me  : Apakah kamu menyukai mendiskusikan hal hal baru?
+8.  Her : Tidak juga, tergantung topiknya
+9.  Me  : Apakah kamu pernah berdiskusi secara online?
+10. Her : Tidak pernah, saya hanya membaca saja
+11. Me  : Apakah kamu biasanya berdiskusi dengan orang yang tidak anda kenal?
+12. Her : Tidak pernah
+13. Me  : Lebih baik berdisukusi secara online atau secara langsung?
+14. Her : Sepertinya lebih baik secara langsung agar tidak salah paham
+15. Me  : Oke, sekarang ke pertanyaan selanjutnya, Anda coba buka website berikut (menunjukkan craiglist dan memberikan gambaran umum)
+16. Her : Oke
+17. Me  : Anda coba login menggunakan akun berikut
+18. Her : Oke sudah
+19. Me  : Sekarang coba anda cari kategori dengan jumlah thread terbanyak
+20. Her : (3 menit mencari), ini kategori politics world dengan jumlah 6878
+21. Me  : Sekarang anda coba cari kategori "Sports"
+22. Her : Oke ini udah ketemu
+23. Me  : Sekarang anda buka salah satu thread/reply, dan coba untuk reply thread/reply tersebut
+24. Her : (Kesulitan untuk menemukan tombol reply)
+25. Me  : Sekarang coba anda mengurutkan thread berdasarkan "older post"
+26. Her : (Tidak dapat menemukan fitur tersebut), saya tidak dapat menemukan fiturnya
+27. Me  : Iya, tombolnya ada di bagian paling bawah
+28. Her : Oalah iya
+29. Me  : Sekarang Rate thread/reply tersebut
+30. Her : Oke (tidak ada masalah)
+31. Me  : Lalu Flag thread/reply tersebut
+32. Her : Oke sudah (tidak ada masalah)
+33. Me  : Setelah itu coba buat thread baru
+34. Her : (Setelah beberapa saat tidak ada masalah) ini sudah bikin thread baru
+35. Me  : Oke terimakasih atas bantuannya
+36. Her : Sama-sama
 ```
 
 

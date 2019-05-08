@@ -47,11 +47,16 @@ Online forums is a place of discussion. Where people can hold conversation in th
 1. Try to Login.
 1. Find the category with the highest number of threads.
 1. Search a category.
-1. Reply to a thread.
-1. Sort the forum  to older frist.
-1. Rate a thread / reply.
-1. Flag a thread / reply.
-1. Create a new forum.
+    - Keyword: Donald Trump
+3. Reply to a thread.
+4. Sort the forum
+   - Oldest first
+5. Rate a thread / reply.
+6. Flag a thread / reply.
+7. Create a new forum 
+   - Title: Android Phone
+   - Body:  Iphone is better than Android
+   - City: Choose any
 
 #### User Description
 
@@ -193,6 +198,11 @@ Online forums is a place of discussion. Where people can hold conversation in th
 49. Me: Menurut anda yang bagus seperti apa?
 50. Him: Kalau kita reply seharusnya langsung muncul dibawah.
 51. Me: Oh okay okay.
+52. Me: Instruksi selanjutnya adalah untuk flag suatu reply.
+53. Him: Ok sudah. Mudah.
+54. Me: Apakah anda merasakan kesulitan?
+55. Him: Yang flag ini mudah untuk dicari, karena ada diatas tombolnya.
+56. Me: Instruksi yang terakhir adalah untuk membuat thread baru. 
 
 
 

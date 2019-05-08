@@ -219,11 +219,11 @@ Online forums is a place of discussion. Where people can hold conversation in th
 15 Me  : (explain what is craiglist forum and that what we need is to review the aplication not the user)
 16 Me  : coba sekarang mas login
 17 Him : (he could find login button without any problem)
-18 Me  : coba mas cari kategori dengan diskusi paling banyak
-19 Him : (trying to search it one by one, take a long time ) 
-20 Me  : oke setelah itu coba cari kategori tadi di search bar
+18 Me  : coba mas cari forum dengan diskusi paling banyak
+19 Him : bentar ya mas kecil" tulisan nya , ini mas udah(trying to search it one by one, take a long time ) 
+20 Me  : oke setelah itu coba cari forum tadi di search bar
 21 Him : (easly find it but there are no result)
-22 Me  : coba buka kategori terus balas diskusi nya
+22 Me  : coba buka forum terus balas diskusi nya
 23 Him : (cant find the reply button)
 24 Me  :  sekarang kan diurutkan dari yang paling baru, coba urutkan dari yang paling lama
 25 Him : (changing the page)
@@ -235,6 +235,10 @@ Online forums is a place of discussion. Where people can hold conversation in th
 31 Him : tetep ganemu hahaha
 32 Me  : ngapapa santuy , sekarang bikin diskusi baru
 33 Him : (he cant find the button)
+34 Me  : udah mas gitu aja
+34 Him : maap ya mas nggada yang nemu
+36 Me  : gapapa mas kita emang nyari kesalahan software nya kok, makasih ya
+37 Him : oke mas
 ```
 
 ##### Participant 4
@@ -268,20 +272,26 @@ Online forums is a place of discussion. Where people can hold conversation in th
 20. Her : (3 menit mencari), ini kategori politics world dengan jumlah 6878
 21. Me  : Sekarang anda coba cari kategori "Sports"
 22. Her : Oke ini udah ketemu
-23. Me  : Sekarang anda buka salah satu thread/reply, dan coba untuk reply thread/reply tersebut
-24. Her : (Kesulitan untuk menemukan tombol reply)
-25. Me  : Sekarang coba anda mengurutkan thread berdasarkan "older post"
-26. Her : (Tidak dapat menemukan fitur tersebut), saya tidak dapat menemukan fiturnya
-27. Me  : Iya, tombolnya ada di bagian paling bawah
-28. Her : Oalah iya
-29. Me  : Sekarang Rate thread/reply tersebut
-30. Her : Oke (tidak ada masalah)
-31. Me  : Lalu Flag thread/reply tersebut
-32. Her : Oke sudah (tidak ada masalah)
-33. Me  : Setelah itu coba buat thread baru
-34. Her : (Setelah beberapa saat tidak ada masalah) ini sudah bikin thread baru
-35. Me  : Oke terimakasih atas bantuannya
-36. Her : Sama-sama
+23. Me  : Bagaimana menurutmu tentang web ini?
+24. Her : Desainnya agak jadul, terus ini ada yang sampe ke kanan gara-gara ada yang tulisannya panjang
+25. Me  : Oke, Sekarang anda buka salah satu thread/reply, dan coba untuk reply thread/reply tersebut
+26. Her : (Kesulitan untuk menemukan tombol reply)
+27. Me  : Sekarang coba anda mengurutkan thread berdasarkan "older post"
+28. Her : (Tidak dapat menemukan fitur tersebut), saya tidak dapat menemukan fiturnya
+29. Me  : Iya, tombolnya ada di bagian paling bawah
+30. Her : Oalah iya
+31. Me  : Sekarang Rate thread/reply tersebut
+32. Her : Oke (tidak ada masalah)
+33 Me  : Bagaimana menurutmu?
+34. Her : Sama seperti rate pada umunya sih
+35. Me  : Lalu Flag thread/reply tersebut
+36. Her : Oke sudah (tidak ada masalah)
+37. Me  : Bagaimana menurutmu?
+38. Her : Dari segi desain sih kurang menarik, tulisannya besar kecil
+39. Me  : Setelah itu coba buat thread baru
+40. Her : (Setelah beberapa saat tidak ada masalah) ini sudah bikin thread baru, cuma yang aku kurang suka itu di bagian bodynya, kotaknya bisa diubah jadi kecil dan besar
+41. Me  : Oke terimakasih atas bantuannya
+42. Her : Sama-sama
 ```
 
 
@@ -391,16 +401,30 @@ Online forums is a place of discussion. Where people can hold conversation in th
 19 Him : (trying to search it one by one, take a long time ) 
 20 Me  : search kategori tadi
 21 Him : (easly find it but there are no result)
-22 Me  : coba buka diskusinya lalu 
+22 Me  : coba reply mas
 23 Him : (Take a long time to find it)
-24 Me  : coba rate diskusinya
-25 Him : (easily find it)
-26 Me  : coba flag diskusinya
-27 Him : (easily find it )
-28 Me  :  sekarang kan diurutkan dari yang paling baru, coba urutkan dari yang paling lama
-29 Him : (wrong answer : changing the page)
-30 Me  : make new forum
-31 Him : (he can find the button)
+24 Him : kok gabisa mas ini forum nya 
+25 Me  : iya mas mas mbuka forum yang udah tidak aktif jadi ngga bisa di reply\
+26 Me  : coba mas cari diskusi yang lain
+27 Him : oke mas udah
+28 Me  : terus sekarang reply coba mas
+29 Him : terserah kan mas isi nya
+30 Me  : iya terserah
+31 Him : oke mas udah
+32 Me  : coba rate diskusinya
+33 Him : (easily find it)
+34 Me  : coba flag diskusinya
+35 Him : (easily find it)
+36 Me  :  sekarang kan diurutkan dari yang paling baru, coba urutkan dari yang paling lama
+37 Him : (wrong answer : changing the page)
+38 Me  : mas tadi ganti halaman nya bukan sorting halaman nya coba cari tombol lain
+39 Him : Ga nemu mas 
+38 Me  : coba bikin diskusi baru
+39 Him : oke mas , wah di negaranya ngga ada indonesia ya
+40 Me  : iya mas emang ngga ada soalnya ini diskusi di california
+41 Him : oalah oke mas udah
+42 Me  : yaudah mas makasih ya
+43 Him : sama sama
 ```
 
 ## Contextual Analysis

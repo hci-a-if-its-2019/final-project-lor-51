@@ -1,6 +1,6 @@
 ## Anggota kelompok
 
-1. Andika Andra - 0511164000005
+1. Andika Andra - 05111640000058
 2. Adistya Azhar - 05111640000103
 3. Elvega Dewangga - 05111640000149
 
@@ -75,23 +75,6 @@ Online forums is a place of discussion. Where people can hold conversation in th
 - But Uses social media daily, 5-6 hours
 
 ##### Transcript 1
-=======
-##### Participant 2
-
-##### Participant 3
-- A male, 21 years old.
-- A student of ubaya
-- He had experienced about using social media / forum.
-- not realy enjoy socialising
-##### Participant 4
-
-##### Participant 5
-
-##### Participant 6- A male, 21 years old.
-- A male, 21 years old.
-- A student of ITS
-- He had experienced about using social media / forum.
-- He several times asking about his academic problem/question academic to the internet
 ```
 1.  Me  : Halo, terimakasih sebelumnya sudah mau bergabung dalam wawancara kali ini
 2.  Him : Sama-sama
@@ -115,7 +98,7 @@ Online forums is a place of discussion. Where people can hold conversation in th
 20. Him : (kurang lebih 2 menit berikutnya) saya tidak bisa menemukan tombol untuk loginnya
 21. Him : Oh ternyata ada, harus tekan tombol 'my account' terlebih dahulu
 22. Me  : Oke, sekarang anda menuju bagian forum, lalu cari category yang memiliki jumlah thread paling banyak
-23. Him : (3 menit mencari) yang paling banyak adalah category open forum dengan jumlah 1668 thread
+23. Him : (3 menit mencari) harusnya ada menu buat sort gitu ya biar lebih cepat, tapi yang paling banyak adalah category open forum dengan jumlah 1668 thread
 24. Me  : Sekarang coba kamu cari kategori pada forum, kategorinya adalah "housing" dan "quotes"
 25. Him : (Menunggu 3 menit), ini sudah ketemu semua, mencarinya agak susah karena jarak antar kategori terlalu dekat dan warnanya hampir sama dengan background webnya
 26. Me  : Sekarang kamu coba buka salah satu thread/reply yang ada dalam kategori housing, lalu coba kamu reply
@@ -130,7 +113,7 @@ Online forums is a place of discussion. Where people can hold conversation in th
 35. Me  : Mungkin seperti itu, sekarang coba kamu rate thread yang tadi
 36. Him : Oke, gaada masalah si, cuma ya tampilannya itu yang ngebosenin
 37. Me  : Coba kamu flag thread/reply, flag ini semacam fitur report
-38. Him : Oke sudah, caranya hampir sama seperti pada web-web lainnya sih, tidak ada perbedaan yang menonjol
+38. Him : Oke sudah, caranya hampir sama seperti pada web-web lainnya sih, tidak ada perbedaan yang menonjol, cuma tulisan yang tidak tertata rapih dan warna merah yang mengganggu dan tombolnya juga kekecilan, tidak proporsional
 39. Me  : Nah, sekarang coba kamu buat thread baru
 40. Him : Buat baru ini?
 41. Me  : Iya, untuk topiknya terserah
@@ -143,8 +126,8 @@ Online forums is a place of discussion. Where people can hold conversation in th
 
 
 ##### Participant 2
-
-##### Transcript
+ 
+##### Transcript 2
 ```
 1. Me: Terima kasih sudah menyediakan waktunya untuk mengikuti uji coba aplikasi Craiglist.
 2. Me: Sebelumnya sudah pernah dengar atau menggunakan Craiglist?
@@ -194,7 +177,7 @@ Online forums is a place of discussion. Where people can hold conversation in th
 45. Me: Coba cari reply anda di halaman tersebut.
 46. Him: Hahaha dimana ini, lumayan sulit reply nya saling tertumpuk atas-bawah. Kalau saya klik thread nya kok ndak muncul reply dibawah langsung ya? 
 47. Me: Apa anda mengalami kesulitan untuk menemukan reply?
-48. Him: Iya, desain reply terlalu ramai. Dan tidak muncul reply dibawah. Desainnya kurang bagus.
+48. Him: Iya, desain reply terlalu ramai. Dan tidak muncul reply dibawah. Desainnya kurang bagus, harusnya juga bisa nulis seperti di blog blog ada tulisan tebal, miring dan lain-lain.
 49. Me: Menurut anda yang bagus seperti apa?
 50. Him: Kalau kita reply seharusnya langsung muncul dibawah.
 51. Me: Oh okay okay.
@@ -212,43 +195,45 @@ Online forums is a place of discussion. Where people can hold conversation in th
 
 
 ```
-
 ##### Participant 3
-
-##### Transcript
+- A male, 21 years old.
+- A student of ubaya
+- He had experienced about using social media / forum.
+- not realy enjoy socialising
+##### Transcript 3
 ```
-[00:00] Me  : have you ever used social media before
+[00:00] Me  : Mas Pernah pake sosial media ngga sebelumnya
 [00:06] Him : Pernah
-[00:10] Me  : How often you used it each day
-[00:13] Him : I always use it when my times is free
-[00:31] Me  : are you update with new trend
-[00:36] Him : no
-[00:41] Me  : Do you like to discuss new ideas?
-[00:49] Him : Not really
-[01.01] Me  : Have you used online discussions? How familiar are you with it?
-[01.16] Him : I just read it without submiting any coment . but yea im familiar with it
-[01.30] Me  : Do you usually discuss something in front of strangers?
-[01.40] Him : never
-[02.11] Me  : Do you prefer offline or online discussions?
-[02.21] Him : depend on there are free time or not
+[00:10] Me  : Seberapa sering mas menggunakan nya
+[00:13] Him : biasanya kalau ada waktu kosong sih
+[00:31] Me  : update ngga dengan trend trend yang ada
+[00:36] Him : ngga sih
+[00:41] Me  : suka ngga mendiskusikan ide" baru
+[00:49] Him : ngga terlalu
+[01.01] Me  : Pernah pake diskusi online ngga sebelumnya 
+[01.16] Him : biasanya sih cuman baca aja ngga ikut komen , tapi sering buka sih
+[01.30] Me  : pernah ngga berdiskusi dengan orang yang mas belum kenal sebelumnya
+[01.40] Him : Belum pernah
+[02.11] Me  : lebih suka diskusi online apa offline
+[02.21] Him : tergantung ada waktu atau ngga, klo lagi kosong enakan ketemuan
 [02.35] Me  : (explain what is craiglist forum and that what we need is to review the aplication not the user)
-[02.56] Me : Try to Login.
-[03.01] Him  : (he could find login button without any problem)
-[03.35] Me  : Find the category with the highest number of threads.
+[02.56] Me  : coba sekarang mas login
+[03.01] Him : (he could find login button without any problem)
+[03.35] Me  : coba mas cari kategori dengan diskusi paling banyak
 [03.37] Him : (trying to search it one by one, take a long time ) 
-[04.23] Me  : Search a category.
+[04.23] Me  : oke setelah itu coba cari kategori tadi di search bar
 [04.30] Him : (easly find it but there are no result)
-[05.01] Me  : try to open one of them than reply the thread
+[05.01] Me  : coba buka kategori terus balas diskusi nya
 [05.12] Him : (cant find the reply button)
-[06.01] Me  :  Sort the forum  to older frist
+[06.01] Me  :  sekarang kan diurutkan dari yang paling baru, coba urutkan dari yang paling lama
 [06.08] Him : (changing the page)
 [06.30] Me  : (telling that what he did was changing the page not sort it , ask him to find another button)
-[06.35] Him : im confused (cant find the sort button)
-[07.01] Me  : Rate a thread
+[06.35] Him : gangerti bingung (cant find the sort button)
+[07.01] Me  : kasih rate diskusi tersebut
 [07.10] Him : hahaha (just laughing but cant find the rate button)
-[07.31] Me  : flag a thread
-[07.35] Him : sorry i still cant find it
-[08.05] Me  : its ok , now try to make new forum
+[07.31] Me  : kasih flag diskusi tersebut
+[07.35] Him : tetep ganemu hahaha
+[08.05] Me  : ngapapa santuy , sekarang bikin diskusi baru
 [08.09] Him : (he cant find the button)
 ```
 
@@ -257,7 +242,9 @@ Online forums is a place of discussion. Where people can hold conversation in th
 - A student of ITS Chemical Engineering.
 - He had experienced about using social media but not forum type.
 - Updated about new trends.
-##### Transcript
+
+##### Transcript 4
+
 ```
 1.  Me  : Halo, Apakah anda pernah menggunakan media sosial sebelumnya?
 2.  Her : Pernah, juga menggunakan beberapa media sosial
@@ -306,38 +293,78 @@ todo: Ha
 ```
 
 ##### Participant 6
+- A male, 21 years old.
+- A student of ITS
+- He had experienced about using social media / forum.
+- He several times asking about his academic problem/question academic to the internet
 
-##### Transcript
+##### Transcript 6
+
 ```
-[00:00] Me  : have you ever used social media before
-[00:06] Him : yes
-[00:08] Me  : How often you used it
-[00:10] Him : i use it every day
-[00:18] Me  : are you update with new trend
-[00:21] Him : not really
-[00:27] Me  : Do you like to discuss new ideas?
-[00:34] Him : No
-[00.41] Me  : Have you used online discussions? How familiar are you with it?
-[01.04] Him : yes if i that discussion seems interesting
-[01.16] Me  : Do you usually discuss something in front of strangers?
-[01.31] Him : if necessary
-[01.43] Me  : Do you prefer offline or online discussions?
-[01.48] Him : depend on there are free time or not
+[00:00] Me  : pernah pake sosial media sebelumnya?
+[00:06] Him : pernah
+[00:08] Me  : seberapa sering mas make nya?
+[00:10] Him : setiap hari
+[00:18] Me  : update ngga dengan trend" yang ada?
+[00:21] Him : ngga terlalu
+[00:27] Me  : suka ngga mendiskusikan ide" yang mas pikirin saat ini?
+[00:34] Him : ngga, ide aja jarang mas
+[00.41] Me  : pernah join ke forum diskusi online ngga sebelumnya?
+[01.04] Him : pernah
+[01.16] Me  : biasa ngga berdiskusi dengan orang yang sebelumnya masbelum kenal
+[01.31] Him : biasanya kalo butuh aja sih
+[01.43] Me  : lebih suka diskusi online apa offline
+[01.48] Him : tergantung ada waktu atau tidak
 [01.57] Me  : (explain what is craiglist forum and that what we need is to review the aplication not the user)
-[02.30] Me : Try to Login.
+[02.30] Me : coba sekarang mas login
 [02.35] Him  : (he could find login button without any problem)
-[03.15] Me  : Find the category with the highest number of threads.
+[03.15] Me  : cari kategori dengan jumlah diskusi paling banyak
 [03.25] Him : (trying to search it one by one, take a long time ) 
-[03.47] Me  : Search a category.
+[03.47] Me  : search kategori tadi
 [03.55] Him : (easly find it but there are no result)
-[04.15] Me  : try to open one of them than reply the thread
+[04.15] Me  : coba buka diskusinya lalu 
 [04.18] Him : (Take a long time to find it)
-[05.25] Me  : Rate a thread
+[05.25] Me  : coba rate diskusinya
 [05.28] Him : (easily find it)
-[05.35] Me  : flag a thread
+[05.35] Me  : coba flag diskusinya
 [05.43] Him : (easily find it )
-[05.52] Me  :  Sort the forum  to older frist
-[05.55] Him : (changing the page)
+[05.52] Me  :  sekarang kan diurutkan dari yang paling baru, coba urutkan dari yang paling lama
+[05.55] Him : (wrong answer : changing the page)
 [06.30] Me  : make new forum
 [06.47] Him : (he can find the button)
 ```
+
+## Contextual Analysis
+### Artifact Model
+![artifact1](img/artifact1.jpg)
+> **Problem 1** : (Participant 1: 25) Participant hard to read category because the category background color is almost the same as website background, (Participant 2: 24) Design too simple
+> **Problem 2** : (Participant 1: 23) Participant hard to read number label because too small, the results of the participants incorrectly mentioned the most categories, (Participant 2: 32) The amount displayed is inaccurate
+---
+![artifact2](img/artifact2.jpg)
+> **Problem 3** : (Participant 2: 48) Reply form too standart, expected to use like wysiwyg editor
+---
+![artifact3](img/artifact3.jpg)
+> **Problem 4** : (Participant 2: 46) Reply form stacked, make participant confused
+---
+![artifact4](img/artifact4.jpg)
+> **Problem 5** : (Participant 1: 38) participant disturbed by bad layout form and red color also small submit button
+---
+![artifact5](img/artifact5.jpg)
+> **Problem 6** : (Participant 1: 32) Participant cant find button for older first, (Participant 4: 26) Cant find the button, (Participant 3: 06.35) Cant find the button
+---
+![artifact6](img/artifact6.jpg)
+> **Problem 7** : (Participant 1: 30) participant had difficulty reading if the comment was too long
+---
+### Flow Model
+![flow model](img/imk-Flow.jpg)
+### Cultural Model
+
+
+## Do's And Don't
+### Do
+- Do give attractive scheme
+- 
+- 
+### Don't
+- Don't have illicit content
+- Don't use small font size for important information

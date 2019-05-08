@@ -202,39 +202,39 @@ Online forums is a place of discussion. Where people can hold conversation in th
 - not realy enjoy socialising
 ##### Transcript 3
 ```
-[00:00] Me  : Mas Pernah pake sosial media ngga sebelumnya
-[00:06] Him : Pernah
-[00:10] Me  : Seberapa sering mas menggunakan nya
-[00:13] Him : biasanya kalau ada waktu kosong sih
-[00:31] Me  : update ngga dengan trend trend yang ada
-[00:36] Him : ngga sih
-[00:41] Me  : suka ngga mendiskusikan ide" baru
-[00:49] Him : ngga terlalu
-[01.01] Me  : Pernah pake diskusi online ngga sebelumnya 
-[01.16] Him : biasanya sih cuman baca aja ngga ikut komen , tapi sering buka sih
-[01.30] Me  : pernah ngga berdiskusi dengan orang yang mas belum kenal sebelumnya
-[01.40] Him : Belum pernah
-[02.11] Me  : lebih suka diskusi online apa offline
-[02.21] Him : tergantung ada waktu atau ngga, klo lagi kosong enakan ketemuan
-[02.35] Me  : (explain what is craiglist forum and that what we need is to review the aplication not the user)
-[02.56] Me  : coba sekarang mas login
-[03.01] Him : (he could find login button without any problem)
-[03.35] Me  : coba mas cari kategori dengan diskusi paling banyak
-[03.37] Him : (trying to search it one by one, take a long time ) 
-[04.23] Me  : oke setelah itu coba cari kategori tadi di search bar
-[04.30] Him : (easly find it but there are no result)
-[05.01] Me  : coba buka kategori terus balas diskusi nya
-[05.12] Him : (cant find the reply button)
-[06.01] Me  :  sekarang kan diurutkan dari yang paling baru, coba urutkan dari yang paling lama
-[06.08] Him : (changing the page)
-[06.30] Me  : (telling that what he did was changing the page not sort it , ask him to find another button)
-[06.35] Him : gangerti bingung (cant find the sort button)
-[07.01] Me  : kasih rate diskusi tersebut
-[07.10] Him : hahaha (just laughing but cant find the rate button)
-[07.31] Me  : kasih flag diskusi tersebut
-[07.35] Him : tetep ganemu hahaha
-[08.05] Me  : ngapapa santuy , sekarang bikin diskusi baru
-[08.09] Him : (he cant find the button)
+1 Me  : Mas Pernah pake sosial media ngga sebelumnya
+2 Him : Pernah
+3 Me  : Seberapa sering mas menggunakan nya
+4 Him : biasanya kalau ada waktu kosong sih
+5 Me  : update ngga dengan trend trend yang ada
+6 Him : ngga sih
+7 Me  : suka ngga mendiskusikan ide" baru
+8 Him : ngga terlalu
+9 Me  : Pernah pake diskusi online ngga sebelumnya 
+10 Him : biasanya sih cuman baca aja ngga ikut komen , tapi sering buka sih
+11 Me  : pernah ngga berdiskusi dengan orang yang mas belum kenal sebelumnya
+12 Him : Belum pernah
+13 Me  : lebih suka diskusi online apa offline
+14 Him : tergantung ada waktu atau ngga, klo lagi kosong enakan ketemuan
+15 Me  : (explain what is craiglist forum and that what we need is to review the aplication not the user)
+16 Me  : coba sekarang mas login
+17 Him : (he could find login button without any problem)
+18 Me  : coba mas cari kategori dengan diskusi paling banyak
+19 Him : (trying to search it one by one, take a long time ) 
+20 Me  : oke setelah itu coba cari kategori tadi di search bar
+21 Him : (easly find it but there are no result)
+22 Me  : coba buka kategori terus balas diskusi nya
+23 Him : (cant find the reply button)
+24 Me  :  sekarang kan diurutkan dari yang paling baru, coba urutkan dari yang paling lama
+25 Him : (changing the page)
+26 Me  : (telling that what he did was changing the page not sort it , ask him to find another button)
+27 Him : gangerti bingung (cant find the sort button)
+28 Me  : kasih rate diskusi tersebut
+29 Him : hahaha (just laughing but cant find the rate button)
+30 Me  : kasih flag diskusi tersebut
+31 Him : tetep ganemu hahaha
+32 Me  : ngapapa santuy , sekarang bikin diskusi baru
+33 Him : (he cant find the button)
 ```
 
 ##### Participant 4
@@ -340,65 +340,45 @@ Online forums is a place of discussion. Where people can hold conversation in th
 - He had experienced about using social media / forum.
 - He several times asking about his academic problem/question academic to the internet
 
-##### Transcript 6
+1ranscript 6
 
 ```
-[00:00] Me  : pernah pake sosial media sebelumnya?
-[00:06] Him : pernah
-[00:08] Me  : seberapa sering mas make nya?
-[00:10] Him : setiap hari
-[00:18] Me  : update ngga dengan trend" yang ada?
-[00:21] Him : ngga terlalu
-[00:27] Me  : suka ngga mendiskusikan ide" yang mas pikirin saat ini?
-[00:34] Him : ngga, ide aja jarang mas
-[00.41] Me  : pernah join ke forum diskusi online ngga sebelumnya?
-[01.04] Him : pernah
-[01.16] Me  : biasa ngga berdiskusi dengan orang yang sebelumnya masbelum kenal
-[01.31] Him : biasanya kalo butuh aja sih
-[01.43] Me  : lebih suka diskusi online apa offline
-[01.48] Him : tergantung ada waktu atau tidak
-[01.57] Me  : (explain what is craiglist forum and that what we need is to review the aplication not the user)
-[02.30] Me : coba sekarang mas login
-[02.35] Him  : (he could find login button without any problem)
-[03.15] Me  : cari kategori dengan jumlah diskusi paling banyak
-[03.25] Him : (trying to search it one by one, take a long time ) 
-[03.47] Me  : search kategori tadi
-[03.55] Him : (easly find it but there are no result)
-[04.15] Me  : coba buka diskusinya lalu 
-[04.18] Him : (Take a long time to find it)
-[05.25] Me  : coba rate diskusinya
-[05.28] Him : (easily find it)
-[05.35] Me  : coba flag diskusinya
-[05.43] Him : (easily find it )
-[05.52] Me  :  sekarang kan diurutkan dari yang paling baru, coba urutkan dari yang paling lama
-[05.55] Him : (wrong answer : changing the page)
-[06.30] Me  : make new forum
-[06.47] Him : (he can find the button)
+1  Me  : pernah pake sosial media sebelumnya?
+2  Him : pernah
+3  Me  : seberapa sering mas make nya?
+4  Him : setiap hari
+5  Me  : update ngga dengan trend" yang ada?
+6  Him : ngga terlalu
+7  Me  : suka ngga mendiskusikan ide" yang mas pikirin saat ini?
+8  Him : ngga, ide aja jarang mas
+9  Me  : pernah join ke forum diskusi online ngga sebelumnya?
+10 Him : pernah
+11 Me  : biasa ngga berdiskusi dengan orang yang sebelumnya masbelum kenal
+12 Him : biasanya kalo butuh aja sih
+13 Me  : lebih suka diskusi online apa offline
+14 Him : tergantung ada waktu atau tidak
+15 Me  : (explain what is craiglist forum and that what we need is to review the aplication not the user)
+16 Me : coba sekarang mas login
+17 Him  : (he could find login button without any problem)
+18 Me  : cari kategori dengan jumlah diskusi paling banyak
+19 Him : (trying to search it one by one, take a long time ) 
+20 Me  : search kategori tadi
+21 Him : (easly find it but there are no result)
+22 Me  : coba buka diskusinya lalu 
+23 Him : (Take a long time to find it)
+24 Me  : coba rate diskusinya
+25 Him : (easily find it)
+26 Me  : coba flag diskusinya
+27 Him : (easily find it )
+28 Me  :  sekarang kan diurutkan dari yang paling baru, coba urutkan dari yang paling lama
+29 Him : (wrong answer : changing the page)
+30 Me  : make new forum
+31 Him : (he can find the button)
 ```
 
 ## Contextual Analysis
 ### Artifact Model
-![artifact1](img/artifact1.jpg)
-> **Problem 1** : (Participant 1: 25) Participant hard to read category because the category background color is almost the same as website background, (Participant 2: 24) Design too simple
-> **Problem 2** : (Participant 1: 23) Participant hard to read number label because too small, the results of the participants incorrectly mentioned the most categories, (Participant 2: 32) The amount displayed is inaccurate
----
-![artifact2](img/artifact2.jpg)
-> **Problem 3** : (Participant 2: 48) Reply form too standart, expected to use like wysiwyg editor
----
-![artifact3](img/artifact3.jpg)
-> **Problem 4** : (Participant 2: 46) Reply form stacked, make participant confused
----
-![artifact4](img/artifact4.jpg)
-> **Problem 5** : (Participant 1: 38) participant disturbed by bad layout form and red color also small submit button
----
-![artifact5](img/artifact5.jpg)
-> **Problem 6** : (Participant 1: 32) Participant cant find button for older first, (Participant 4: 26) Cant find the button, (Participant 3: 06.35) Cant find the button
----
-![artifact6](img/artifact6.jpg)
-> **Problem 7** : (Participant 1: 30) participant had difficulty reading if the comment was too long
----
 ### Flow Model
-![flow model](img/imk-Flow.jpg)
 ### Cultural Model
 
 

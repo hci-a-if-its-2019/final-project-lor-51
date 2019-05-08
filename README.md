@@ -87,7 +87,7 @@ Online forums is a place of discussion. Where people can hold conversation in th
 20. Him : (kurang lebih 2 menit berikutnya) saya tidak bisa menemukan tombol untuk loginnya
 21. Him : Oh ternyata ada, harus tekan tombol 'my account' terlebih dahulu
 22. Me  : Oke, sekarang anda menuju bagian forum, lalu cari category yang memiliki jumlah thread paling banyak
-23. Him : (3 menit mencari) yang paling banyak adalah category open forum dengan jumlah 1668 thread
+23. Him : (3 menit mencari) harusnya ada menu buat dort gitu ya biar lebih cepat, tapi yang paling banyak adalah category open forum dengan jumlah 1668 thread
 24. Me  : Sekarang coba kamu cari kategori pada forum, kategorinya adalah "housing" dan "quotes"
 25. Him : (Menunggu 3 menit), ini sudah ketemu semua, mencarinya agak susah karena jarak antar kategori terlalu dekat dan warnanya hampir sama dengan background webnya
 26. Me  : Sekarang kamu coba buka salah satu thread/reply yang ada dalam kategori housing, lalu coba kamu reply
@@ -102,7 +102,7 @@ Online forums is a place of discussion. Where people can hold conversation in th
 35. Me  : Mungkin seperti itu, sekarang coba kamu rate thread yang tadi
 36. Him : Oke, gaada masalah si, cuma ya tampilannya itu yang ngebosenin
 37. Me  : Coba kamu flag thread/reply, flag ini semacam fitur report
-38. Him : Oke sudah, caranya hampir sama seperti pada web-web lainnya sih, tidak ada perbedaan yang menonjol
+38. Him : Oke sudah, caranya hampir sama seperti pada web-web lainnya sih, tidak ada perbedaan yang menonjol, cuma tulisan yang tidak tertata rapih dan warna merah yang mengganggu dan tombolnya juga kekecilan, tidak proporsional
 39. Me  : Nah, sekarang coba kamu buat thread baru
 40. Him : Buat baru ini?
 41. Me  : Iya, untuk topiknya terserah
@@ -312,3 +312,28 @@ todo: Ha
 [06.30] Me  : make new forum
 [06.47] Him : (he can find the button)
 ```
+
+## Contextual Analysis
+### Artifact Model
+![artifact1](img/artifact1.jpg)
+> **Problem 1** : 
+> **Problem 2** : 
+---
+![artifact2](img/artifact2.jpg)
+> **Problem 3** : 
+---
+![artifact3](img/artifact3.jpg)
+> **Problem 4** : 
+---
+![artifact4](img/artifact4.jpg)
+> **Problem 5** : 
+---
+![artifact5](img/artifact5.jpg)
+> **Problem 6** : 
+---
+![artifact6](img/artifact6.jpg)
+> **Problem 7** : 
+---
+### Flow Model
+
+### Cultural Model

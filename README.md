@@ -177,7 +177,16 @@ Online forums is a place of discussion. Where people can hold conversation in th
 40. Me: Anda coba sortir thread mulai dari yang tertua.
 41. Him: *1 minute looking for the sort button*
 41. Me: Apakah sudah disortir?
-42. Him: Sudaah, tadi saya cari-cari t
+42. Him: Sudaah, tadi saya cari-cari ternyata ada di bawah.
+43. Me: Okay, instruksi selanjutnya, anda reply suatu thread. Mengisi title dan body text.
+44. Him: Okay sudah.
+45. Me: Coba cari reply anda di halaman tersebut.
+46. Him: Hahaha dimana ini, lumayan sulit reply nya saling tertumpuk atas-bawah. Kalau saya klik thread nya kok ndak muncul reply dibawah langsung ya? 
+47. Me: Apa anda mengalami kesulitan untuk menemukan reply?
+48. Him: Iya, desain reply terlalu ramai. Dan tidak muncul reply dibawah. Desainnya kurang bagus.
+49. Me: Menurut anda yang bagus seperti apa?
+50. Him: Kalau kita reply seharusnya langsung muncul dibawah.
+51. Me: Oh okay okay.
 
 
 

@@ -332,6 +332,10 @@ Online forums is a place of discussion. Where people can hold conversation in th
 38. Him: Udah mas.
 39. Me: Ndak ada masalah ya?
 40. Him: Lancar...
+41: Me: Instruksi selanjutnya adalah untuk sortir thread mulai dari tertua.
+42. Him: Kategori ini ta? Ini adanya tombol "Older".. Tapi dia malah ke halaman selanjutnya. Masa aku harus sampai halaman akhir wkwkwk.
+43. Me: Hmm coba dieksplorasi dulu.
+
 ```
 
 ##### Participant 6

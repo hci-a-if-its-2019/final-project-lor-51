@@ -315,27 +315,7 @@ todo: Ha
 
 ## Contextual Analysis
 ### Artifact Model
-![artifact1](img/artifact1.jpg)
-> **Problem 1** : (Participant 1: 25) Participant hard to read category because the category background color is almost the same as website background, (Participant 2: 24) Design too simple
-> **Problem 2** : (Participant 1: 23) Participant hard to read number label because too small, the results of the participants incorrectly mentioned the most categories, (Participant 2: 32) The amount displayed is inaccurate
----
-![artifact2](img/artifact2.jpg)
-> **Problem 3** : (Participant 2: 48) Reply form too standart, expected to use like wysiwyg editor
----
-![artifact3](img/artifact3.jpg)
-> **Problem 4** : (Participant 2: 46) Reply form stacked, make participant confused
----
-![artifact4](img/artifact4.jpg)
-> **Problem 5** : (Participant 1: 38) participant disturbed by bad layout form and red color also small submit button
----
-![artifact5](img/artifact5.jpg)
-> **Problem 6** : (Participant 1: 32) Participant cant find button for older first, (Participant 4: 26) Cant find the button, (Participant 3: 06.35) Cant find the button
----
-![artifact6](img/artifact6.jpg)
-> **Problem 7** : (Participant 1: 30) participant had difficulty reading if the comment was too long
----
 ### Flow Model
-![flow model](img/imk-Flow.jpg)
 ### Cultural Model
 
 

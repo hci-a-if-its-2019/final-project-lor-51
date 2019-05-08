@@ -87,7 +87,7 @@ Online forums is a place of discussion. Where people can hold conversation in th
 20. Him : (kurang lebih 2 menit berikutnya) saya tidak bisa menemukan tombol untuk loginnya
 21. Him : Oh ternyata ada, harus tekan tombol 'my account' terlebih dahulu
 22. Me  : Oke, sekarang anda menuju bagian forum, lalu cari category yang memiliki jumlah thread paling banyak
-23. Him : (3 menit mencari) harusnya ada menu buat dort gitu ya biar lebih cepat, tapi yang paling banyak adalah category open forum dengan jumlah 1668 thread
+23. Him : (3 menit mencari) harusnya ada menu buat sort gitu ya biar lebih cepat, tapi yang paling banyak adalah category open forum dengan jumlah 1668 thread
 24. Me  : Sekarang coba kamu cari kategori pada forum, kategorinya adalah "housing" dan "quotes"
 25. Him : (Menunggu 3 menit), ini sudah ketemu semua, mencarinya agak susah karena jarak antar kategori terlalu dekat dan warnanya hampir sama dengan background webnya
 26. Me  : Sekarang kamu coba buka salah satu thread/reply yang ada dalam kategori housing, lalu coba kamu reply
@@ -166,7 +166,7 @@ Online forums is a place of discussion. Where people can hold conversation in th
 45. Me: Coba cari reply anda di halaman tersebut.
 46. Him: Hahaha dimana ini, lumayan sulit reply nya saling tertumpuk atas-bawah. Kalau saya klik thread nya kok ndak muncul reply dibawah langsung ya? 
 47. Me: Apa anda mengalami kesulitan untuk menemukan reply?
-48. Him: Iya, desain reply terlalu ramai. Dan tidak muncul reply dibawah. Desainnya kurang bagus.
+48. Him: Iya, desain reply terlalu ramai. Dan tidak muncul reply dibawah. Desainnya kurang bagus, harusnya juga bisa nulis seperti di blog blog ada tulisan tebal, miring dan lain-lain.
 49. Me: Menurut anda yang bagus seperti apa?
 50. Him: Kalau kita reply seharusnya langsung muncul dibawah.
 51. Me: Oh okay okay.
@@ -210,7 +210,7 @@ Online forums is a place of discussion. Where people can hold conversation in th
 [06.35] Him : gangerti bingung (cant find the sort button)
 [07.01] Me  : kasih rate diskusi tersebut
 [07.10] Him : hahaha (just laughing but cant find the rate button)
-[07.31] Me  : kasih flah diskusi tersebut
+[07.31] Me  : kasih flag diskusi tersebut
 [07.35] Him : tetep ganemu hahaha
 [08.05] Me  : ngapapa santuy , sekarang bikin diskusi baru
 [08.09] Him : (he cant find the button)
@@ -316,24 +316,32 @@ todo: Ha
 ## Contextual Analysis
 ### Artifact Model
 ![artifact1](img/artifact1.jpg)
-> **Problem 1** : 
-> **Problem 2** : 
+> **Problem 1** : (Participant 1: 25) Participant hard to read category because the category background color is almost the same as website background, (Participant 2: 24) Design too simple
+> **Problem 2** : (Participant 1: 23) Participant hard to read number label because too small, the results of the participants incorrectly mentioned the most categories, (Participant 2: 32) The amount displayed is inaccurate
 ---
 ![artifact2](img/artifact2.jpg)
-> **Problem 3** : 
+> **Problem 3** : (Participant 2: 48) Reply form too standart, expected to use like wysiwyg editor
 ---
 ![artifact3](img/artifact3.jpg)
-> **Problem 4** : 
+> **Problem 4** : (Participant 2: 46) Reply form stacked, make participant confused
 ---
 ![artifact4](img/artifact4.jpg)
-> **Problem 5** : 
+> **Problem 5** : (Participant 1: 38) participant disturbed by bad layout form and red color also small submit button
 ---
 ![artifact5](img/artifact5.jpg)
-> **Problem 6** : 
+> **Problem 6** : (Participant 1: 32) Participant cant find button for older first, (Participant 4: 26) Cant find the button, (Participant 3: 06.35) Cant find the button
 ---
 ![artifact6](img/artifact6.jpg)
-> **Problem 7** : 
+> **Problem 7** : (Participant 1: 30) participant had difficulty reading if the comment was too long
 ---
 ### Flow Model
 
 ### Cultural Model
+
+## Do's And Don't
+### Do
+- 
+- 
+### Don't
+- 
+- 

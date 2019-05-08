@@ -202,7 +202,12 @@ Online forums is a place of discussion. Where people can hold conversation in th
 53. Him: Ok sudah. Mudah.
 54. Me: Apakah anda merasakan kesulitan?
 55. Him: Yang flag ini mudah untuk dicari, karena ada diatas tombolnya.
-56. Me: Instruksi yang terakhir adalah untuk membuat thread baru. 
+56. Me: Instruksi yang terakhir adalah untuk membuat thread baru. Dengan title: Android Phone, Body: Iphone is better dan Android.
+57. Him: Okay sudah.
+58. Me: Apa mengalami kesulitan?
+59. Him: Ndak siih. Tapi menurutku ditambahin fitur di body threadnya, seperti bisa bold text, dan underline.
+60. Me: Okay. Untuk uji coba sudah selesai. Terima kasih sudah menyediakan waktunya yaa.
+61. Him: Sama-sama
 
 
 

@@ -47,11 +47,16 @@ Online forums is a place of discussion. Where people can hold conversation in th
 1. Try to Login.
 1. Find the category with the highest number of threads.
 1. Search a category.
-1. Reply to a thread.
-1. Sort the forum  to older frist.
-1. Rate a thread / reply.
-1. Flag a thread / reply.
-1. Create a new forum.
+    - Keyword: Donald Trump
+3. Reply to a thread.
+4. Sort the forum
+   - Oldest first
+5. Rate a thread / reply.
+6. Flag a thread / reply.
+7. Create a new forum 
+   - Title: Android Phone
+   - Body:  Iphone is better than Android
+   - City: Choose any
 
 #### User Description
 
@@ -62,6 +67,12 @@ Online forums is a place of discussion. Where people can hold conversation in th
 - A student of ITS Industrial Engineering.
 - He had experienced about using social media / forum.
 - He several times asking about his academic problem/question academic to the internet.
+
+##### Participant 2
+- A male, 21 years of age.
+- ITS Student
+- No experience using online forums
+- But Uses social media daily, 5-6 hours
 
 ##### Transcript 1
 ```
@@ -170,6 +181,16 @@ Online forums is a place of discussion. Where people can hold conversation in th
 49. Me: Menurut anda yang bagus seperti apa?
 50. Him: Kalau kita reply seharusnya langsung muncul dibawah.
 51. Me: Oh okay okay.
+52. Me: Instruksi selanjutnya adalah untuk flag suatu reply.
+53. Him: Ok sudah. Mudah.
+54. Me: Apakah anda merasakan kesulitan?
+55. Him: Yang flag ini mudah untuk dicari, karena ada diatas tombolnya.
+56. Me: Instruksi yang terakhir adalah untuk membuat thread baru. Dengan title: Android Phone, Body: Iphone is better dan Android.
+57. Him: Okay sudah.
+58. Me: Apa mengalami kesulitan?
+59. Him: Ndak siih. Tapi menurutku ditambahin fitur di body threadnya, seperti bisa bold text, dan underline.
+60. Me: Okay. Untuk uji coba sudah selesai. Terima kasih sudah menyediakan waktunya yaa.
+61. Him: Sama-sama
 
 
 
@@ -272,9 +293,67 @@ Online forums is a place of discussion. Where people can hold conversation in th
 
 ##### Participant 5
 
+- A male, 15 years of age
+- High school student
+- Never used online forums
+- Play games alot
 ##### Transcript
 ```
-todo: Ha
+1. Me: Haloo. Makasih udah menyediakan waktu untuk interview sebentar. Jadi ini aku ada aplikasi forum online. Nanti bakalan ada beberapa instruksi yang harus kamu lakukan.
+2. Him: Oke.
+3. Me: Pertama, aku mau tanya. Kamu tau online forums?
+4. Him: Iya tahu.
+5. Me: Pernah pakai?
+6. Him: Enggak pernah... Bukannya itu untuk bapak-bapak ya?
+7. Me: Enggak, ada variasi topic, untuk anak muda juga bisa.
+8. Me: Kamu pengguna sosmed aktif?
+9. Him: Enggak juga sih, lebih ke main game dan entertainment (Youtube).
+10. Me: Oke.
+11. Me: Instruksi pertama.. Coba kamu cari kategori dengan thread terbanyak.
+12. Him: Hmm... tahunya yang terbanyak dari apa? *Mengecek satu-satu kategory*
+13. Him: Ini aku masuk kategori isinya teks banyak mas wkwk. Tapi ndak ada tulisan kalau kategori ini terbanyak atau bukan.
+14. Me: Yang kamu lihat sekarang apa?
+15. Him: Hm yaa ada label terus dibawahnya ada label juga, tapi agak geser ke kanan.
+16. Me: Apa kamu sudah menemukan kategori dengan jumlah terbanyak?
+17. Him: Belum mas
+18. Me: Kesulitan apa yang kamu alami?
+19. Him: Ndak ada penanda yang bisa aku temukan.
+20. Me: Oke.. mau tetap mencari atau ke instruksi berikutnya?
+21. Him: Next aja mas.
+22. Me: Menurutmu apa yang bisa mempermudah untuk mencari kategori dengan thread terbanyak?
+23. Him: Yaa paling gampang ada tombol untuk langsung mengurutkan dari terbanyak.
+24. Me: Oke... Instruksi selanjutnya coba kamu cari thread dengan keyword "Donald Trump".
+25. Him: Pakai search bar ini mas?
+26. Me: Lanjutkan aja... Kalau kesulitan langsung ngomong aja.
+27. Him: Ini mas... Muncul buku sama topeng Donald Trump. *Interviewee searched in the sell-buy section, not the forums*
+28. Me: Hmmm. Okay, ada search lain ndak selain itu?
+29. Him: Aku nemunya yang itu sih mas...
+30. Me: Sekarang kamu kembali ke halaman kategori forum. Terus pilih salah satu kategori.
+31. Him: Aku pilih yang Android mas.
+32. Me: Sekarang kamu pilih salah satu thread, terus lakukan reply,
+33. Him: Okee. Ini udah nemu, di kanan atas.
+34. Me: Ndak ada kesulitan ya?
+35. Him: Ndak, cuman designnya kurang bagus aja, kalau dijadikan tombol lebih dapat perhatiannya.
+36. Him: Ini aku isi apa mas?
+37: Me: Title isi "Android phone", terus Body "Android is not better than iPhone. Hahaha.
+38. Him: Udah mas.
+39. Me: Ndak ada masalah ya?
+40. Him: Lancar...
+41: Me: Instruksi selanjutnya adalah untuk sortir thread mulai dari tertua.
+42. Him: Kategori ini ta? Ini adanya tombol "Older".. Tapi dia malah ke halaman selanjutnya. Masa aku harus sampai halaman akhir wkwkwk.
+43. Me: Hmm coba dieksplorasi dulu.
+44. Him: Ndak nemu mas. Lanjut ke instruksi aja.
+45. Me: Oke, selanjutnya adalah untuk Flag suatu thread.
+46. Him: Oh, flag tadi sebelahnya Reply.. Ini alasan flag aku isi terserah ya?
+47. Me: Iya. Sudah selesai?
+48. Him: Sudah mas.
+49. Me: Sekarang Rate thread.
+50. Him: Oh sepaket ya hahaha, udah mas, saling bersebelahan tombolnya.
+51. Me: Apa mengalami kesulitan untuk rate dan flag?
+52. Him: Enggak ada mas.
+53. Me: Oke, ini yang terakhir. Coba untuk bikin thread baru.
+54.
+
 ```
 
 ##### Participant 6

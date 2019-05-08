@@ -346,7 +346,18 @@ Online forums is a place of discussion. Where people can hold conversation in th
 51. Me: Apa mengalami kesulitan untuk rate dan flag?
 52. Him: Enggak ada mas.
 53. Me: Oke, ini yang terakhir. Coba untuk bikin thread baru.
-54.
+54. Him: Thread baru, berarti aku harus cari New Thread yaa. Hmm tombol plus mana ya. 
+55. Him: Oh ini ta? Compose new thread? Title aku isi apa mas?
+56. Me: Title: Android Phone, Body: Iphone is better than Android, City: Choose any.
+57. Him: Ini ndak bisa nambahin gambar atau emoticon mas?
+58. Me: Ndak bisa. Apa sudah submit?
+59. Him: Sudah mas. Tapi kok gak muncul ya?
+60. Me: Kamu di halaman berapa?
+61: Him: Ini di halaman pertama. Tapi ndak tau tertumpuk dimana.
+62. Me: Susunan threadnya menyulitkan untuk mencari yang baru diupload?
+63. Him: Iya mas.
+64. Me: Oke. Untuk interview udah selesai sampai sini ya. Makasih udah menyediakan waktunya :)
+65. Him: Sama-sama mas Adis.
 
 ```
 
@@ -401,7 +412,7 @@ Online forums is a place of discussion. Where people can hold conversation in th
 ## Do's And Don't
 ### Do
 - Do give attractive scheme
-- 
+- Give warning about illicit content, because illicit content is not inclusive. Users vary of all ages
 - 
 ### Don't
 - Don't have illicit content

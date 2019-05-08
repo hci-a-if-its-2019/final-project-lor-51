@@ -63,6 +63,12 @@ Online forums is a place of discussion. Where people can hold conversation in th
 - He had experienced about using social media / forum.
 - He several times asking about his academic problem/question academic to the internet.
 
+##### Participant 2
+- A male, 21 years of age.
+- ITS Student
+- No experience using online forums
+- But Uses social media daily, 5-6 hours
+
 ##### Transcript 1
 =======
 ##### Participant 2

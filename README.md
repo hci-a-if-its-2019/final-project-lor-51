@@ -135,7 +135,52 @@ Online forums is a place of discussion. Where people can hold conversation in th
 
 ##### Transcript
 ```
-todo: Ha
+1. Me: Terima kasih sudah menyediakan waktunya untuk mengikuti uji coba aplikasi Craiglist.
+2. Me: Sebelumnya sudah pernah dengar atau menggunakan Craiglist?
+3. Him: Belum pernah.
+4. Me: Jadi Craiglist adalah aplikasi jual - beli barang bekas, dan juga forum diskusi. Yang akan saya ujicoba kan adalah forum diskusinya.
+5. Me: Saya ada beberapa pertanyaan disini. Yang pertama adalah apakah anda pengguna sosial media yang aktif?
+6. Him: Iya
+7. Me: Per hari kira-kira menghabiskan waktu berapa jam?
+8. Him: 5 - 6 jam lewat HP.
+9. Me: Apakah anda update dengan tren saat ini. Mungkin tentang tekonologi, politik, atau hobby?
+10: Him: Tidak terlalu sih.
+11. Me: Anda suka berdiskusi hal baru?
+12: Him: Iya senang.
+13: Me: Anda pernah menggunakan online forum discussion?
+14: Him: Jarang sih.. Ndak pernah sih.
+15. Me: Kalau jarang berarti ndak familiar ya? Mungkin bisa nyebutin yang pernah anda dengar.
+16. Him: Hmm Kaskus mungkin.
+17. Me: Pernah mengakses kaskus?
+18. Him: Udah lama sekali ndak baca.
+19. Me: Baik sekarang didepan anda ada laptop saya, saya persilahkan untuk anda operasikan. Instruksi pertama, saya akan meminta anda untuk mencari menu forum.
+20. Him: Forum di web ini? Ini disucssion forum...
+21. Me: Sekarang anda berada di halaman apa? Dan bisa melihat apa saja?
+22. Him: Ada bermacam-macam kategorinya, yang bahas topic tersendiri.
+23. Me: Menurut anda, apakah desainnya memuaskan?
+24. Him: Tidak sih... Terlalu simple.
+25. Me: Dengan desain seperti ini, anda ingin melanjutkan menggunakan aplikasi ini?
+26. Him: Kalau bener-bener butuh iya.. Tapi kalau dipaksa enggak.
+27. Me: Sekarang untuk instruksi selanjutnya adalah untuk mencari Kategori dengan Thread terbanyak.
+28. Him: Kalau dilihat siih... Ini ada yang 500 dengan kategori Parenting. Eh tapi ada yang lebih banyak lagi ternyata. 7000 threads Politics World.
+29. Me: Anda kok tahu bahwa kategori tersebut memiliki thread tertinggi?
+30. Him: Anda angka disampingnya.
+31. Me: OK, coba sekarang anda mencari kategori dengan jumlah thread 1 - 5.
+32. Him: Ini aku pilih Dance, dia ada 2. Hmm sekarang aku ada di halaman Dance tetapi jumlah threadnya lebih besar dari 2. Ada lebih dari 10 bahkan. Berarti angka yang ada di halaman sebelumnya tidak akurat.
+33. Me: Apa kesulitan yang anda rasakan ketika mencari jumlah thread?
+34. Him: Yaa lumayan bingung sih. Merasa tertipu. Seharusnya label jumlah thread harus akurat.
+35. Me: Instruksi selanjutnya, saya kan search Kategori. Coba search dengan kata "Donald Trump".
+36. Him: Okay.. Saya sedang mengetik di kolom search Donald Trump.
+37. Him: Hmm tidak ada hasilnya, "No post containing" yang muncul.
+38. Me: Instruksi selanjutnya, coba masuk salah satu kategori yang anda sukai.
+39. Him: Ok... Ini tentang Jokes.
+40. Me: Anda coba sortir thread mulai dari yang tertua.
+41. Him: *1 minute looking for the sort button*
+41. Me: Apakah sudah disortir?
+42. Him: Sudaah, tadi saya cari-cari t
+
+
+
 ```
 
 ##### Participant 3

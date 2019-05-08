@@ -64,23 +64,6 @@ Online forums is a place of discussion. Where people can hold conversation in th
 - He several times asking about his academic problem/question academic to the internet.
 
 ##### Transcript 1
-=======
-##### Participant 2
-
-##### Participant 3
-- A male, 21 years old.
-- A student of ubaya
-- He had experienced about using social media / forum.
-- not realy enjoy socialising
-##### Participant 4
-
-##### Participant 5
-
-##### Participant 6- A male, 21 years old.
-- A male, 21 years old.
-- A student of ITS
-- He had experienced about using social media / forum.
-- He several times asking about his academic problem/question academic to the internet
 ```
 1.  Me  : Halo, terimakasih sebelumnya sudah mau bergabung dalam wawancara kali ini
 2.  Him : Sama-sama
@@ -132,8 +115,8 @@ Online forums is a place of discussion. Where people can hold conversation in th
 
 
 ##### Participant 2
-
-##### Transcript
+ 
+##### Transcript 2
 ```
 1. Me: Terima kasih sudah menyediakan waktunya untuk mengikuti uji coba aplikasi Craiglist.
 2. Me: Sebelumnya sudah pernah dengar atau menggunakan Craiglist?
@@ -191,10 +174,12 @@ Online forums is a place of discussion. Where people can hold conversation in th
 
 
 ```
-
 ##### Participant 3
-
-##### Transcript
+- A male, 21 years old.
+- A student of ubaya
+- He had experienced about using social media / forum.
+- not realy enjoy socialising
+##### Transcript 3
 ```
 [00:00] Me  : Mas Pernah pake sosial media ngga sebelumnya
 [00:06] Him : Pernah
@@ -236,7 +221,9 @@ Online forums is a place of discussion. Where people can hold conversation in th
 - A student of ITS Chemical Engineering.
 - He had experienced about using social media but not forum type.
 - Updated about new trends.
-##### Transcript
+
+##### Transcript 4
+
 ```
 1.  Me  : Halo, Apakah anda pernah menggunakan media sosial sebelumnya?
 2.  Her : Pernah, juga menggunakan beberapa media sosial
@@ -285,8 +272,13 @@ todo: Ha
 ```
 
 ##### Participant 6
+- A male, 21 years old.
+- A student of ITS
+- He had experienced about using social media / forum.
+- He several times asking about his academic problem/question academic to the internet
 
-##### Transcript
+##### Transcript 6
+
 ```
 [00:00] Me  : pernah pake sosial media sebelumnya?
 [00:06] Him : pernah

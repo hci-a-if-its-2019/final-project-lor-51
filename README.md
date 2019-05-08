@@ -196,38 +196,38 @@ Online forums is a place of discussion. Where people can hold conversation in th
 
 ##### Transcript
 ```
-[00:00] Me  : have you ever used social media before
+[00:00] Me  : Mas Pernah pake sosial media ngga sebelumnya
 [00:06] Him : Pernah
-[00:10] Me  : How often you used it each day
-[00:13] Him : I always use it when my times is free
-[00:31] Me  : are you update with new trend
-[00:36] Him : no
-[00:41] Me  : Do you like to discuss new ideas?
-[00:49] Him : Not really
-[01.01] Me  : Have you used online discussions? How familiar are you with it?
-[01.16] Him : I just read it without submiting any coment . but yea im familiar with it
-[01.30] Me  : Do you usually discuss something in front of strangers?
-[01.40] Him : never
-[02.11] Me  : Do you prefer offline or online discussions?
-[02.21] Him : depend on there are free time or not
+[00:10] Me  : Seberapa sering mas menggunakan nya
+[00:13] Him : biasanya kalau ada waktu kosong sih
+[00:31] Me  : update ngga dengan trend trend yang ada
+[00:36] Him : ngga sih
+[00:41] Me  : suka ngga mendiskusikan ide" baru
+[00:49] Him : ngga terlalu
+[01.01] Me  : Pernah pake diskusi online ngga sebelumnya 
+[01.16] Him : biasanya sih cuman baca aja ngga ikut komen , tapi sering buka sih
+[01.30] Me  : pernah ngga berdiskusi dengan orang yang mas belum kenal sebelumnya
+[01.40] Him : Belum pernah
+[02.11] Me  : lebih suka diskusi online apa offline
+[02.21] Him : tergantung ada waktu atau ngga, klo lagi kosong enakan ketemuan
 [02.35] Me  : (explain what is craiglist forum and that what we need is to review the aplication not the user)
-[02.56] Me : Try to Login.
-[03.01] Him  : (he could find login button without any problem)
-[03.35] Me  : Find the category with the highest number of threads.
+[02.56] Me  : coba sekarang mas login
+[03.01] Him : (he could find login button without any problem)
+[03.35] Me  : coba mas cari kategori dengan diskusi paling banyak
 [03.37] Him : (trying to search it one by one, take a long time ) 
-[04.23] Me  : Search a category.
+[04.23] Me  : oke setelah itu coba cari kategori tadi di search bar
 [04.30] Him : (easly find it but there are no result)
-[05.01] Me  : try to open one of them than reply the thread
+[05.01] Me  : coba buka kategori terus balas diskusi nya
 [05.12] Him : (cant find the reply button)
-[06.01] Me  :  Sort the forum  to older frist
+[06.01] Me  :  sekarang kan diurutkan dari yang paling baru, coba urutkan dari yang paling lama
 [06.08] Him : (changing the page)
 [06.30] Me  : (telling that what he did was changing the page not sort it , ask him to find another button)
-[06.35] Him : im confused (cant find the sort button)
-[07.01] Me  : Rate a thread
+[06.35] Him : gangerti bingung (cant find the sort button)
+[07.01] Me  : kasih rate diskusi tersebut
 [07.10] Him : hahaha (just laughing but cant find the rate button)
-[07.31] Me  : flag a thread
-[07.35] Him : sorry i still cant find it
-[08.05] Me  : its ok , now try to make new forum
+[07.31] Me  : kasih flah diskusi tersebut
+[07.35] Him : tetep ganemu hahaha
+[08.05] Me  : ngapapa santuy , sekarang bikin diskusi baru
 [08.09] Him : (he cant find the button)
 ```
 
@@ -288,35 +288,35 @@ todo: Ha
 
 ##### Transcript
 ```
-[00:00] Me  : have you ever used social media before
-[00:06] Him : yes
-[00:08] Me  : How often you used it
-[00:10] Him : i use it every day
-[00:18] Me  : are you update with new trend
-[00:21] Him : not really
-[00:27] Me  : Do you like to discuss new ideas?
-[00:34] Him : No
-[00.41] Me  : Have you used online discussions? How familiar are you with it?
-[01.04] Him : yes if i that discussion seems interesting
-[01.16] Me  : Do you usually discuss something in front of strangers?
-[01.31] Him : if necessary
-[01.43] Me  : Do you prefer offline or online discussions?
-[01.48] Him : depend on there are free time or not
+[00:00] Me  : pernah pake sosial media sebelumnya?
+[00:06] Him : pernah
+[00:08] Me  : seberapa sering mas make nya?
+[00:10] Him : setiap hari
+[00:18] Me  : update ngga dengan trend" yang ada?
+[00:21] Him : ngga terlalu
+[00:27] Me  : suka ngga mendiskusikan ide" yang mas pikirin saat ini?
+[00:34] Him : ngga, ide aja jarang mas
+[00.41] Me  : pernah join ke forum diskusi online ngga sebelumnya?
+[01.04] Him : pernah
+[01.16] Me  : biasa ngga berdiskusi dengan orang yang sebelumnya masbelum kenal
+[01.31] Him : biasanya kalo butuh aja sih
+[01.43] Me  : lebih suka diskusi online apa offline
+[01.48] Him : tergantung ada waktu atau tidak
 [01.57] Me  : (explain what is craiglist forum and that what we need is to review the aplication not the user)
-[02.30] Me : Try to Login.
+[02.30] Me : coba sekarang mas login
 [02.35] Him  : (he could find login button without any problem)
-[03.15] Me  : Find the category with the highest number of threads.
+[03.15] Me  : cari kategori dengan jumlah diskusi paling banyak
 [03.25] Him : (trying to search it one by one, take a long time ) 
-[03.47] Me  : Search a category.
+[03.47] Me  : search kategori tadi
 [03.55] Him : (easly find it but there are no result)
-[04.15] Me  : try to open one of them than reply the thread
+[04.15] Me  : coba buka diskusinya lalu 
 [04.18] Him : (Take a long time to find it)
-[05.25] Me  : Rate a thread
+[05.25] Me  : coba rate diskusinya
 [05.28] Him : (easily find it)
-[05.35] Me  : flag a thread
+[05.35] Me  : coba flag diskusinya
 [05.43] Him : (easily find it )
-[05.52] Me  :  Sort the forum  to older frist
-[05.55] Him : (changing the page)
+[05.52] Me  :  sekarang kan diurutkan dari yang paling baru, coba urutkan dari yang paling lama
+[05.55] Him : (wrong answer : changing the page)
 [06.30] Me  : make new forum
 [06.47] Him : (he can find the button)
 ```

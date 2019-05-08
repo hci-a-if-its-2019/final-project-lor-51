@@ -307,7 +307,7 @@ Online forums is a place of discussion. Where people can hold conversation in th
 12. Him: Hmm... tahunya yang terbanyak dari apa? *Mengecek satu-satu kategory*
 13. Him: Ini aku masuk kategori isinya teks banyak mas wkwk. Tapi ndak ada tulisan kalau kategori ini terbanyak atau bukan.
 14. Me: Yang kamu lihat sekarang apa?
-15. Him: Hm yaa ada label terus dibawahnya ada label juga, tapi agak geser ke kanan.
+15. Him: Hm yaa ada label terus dibawahnya ada label juga, tapi agak geser ke kanan. Terus judulnya juga aneh-aneh. Kurang menarik aja mas wkwkwk.
 16. Me: Apa kamu sudah menemukan kategori dengan jumlah terbanyak?
 17. Him: Belum mas
 18. Me: Kesulitan apa yang kamu alami?
@@ -353,7 +353,7 @@ Online forums is a place of discussion. Where people can hold conversation in th
 58. Me: Ndak bisa. Apa sudah submit?
 59. Him: Sudah mas. Tapi kok gak muncul ya?
 60. Me: Kamu di halaman berapa?
-61: Him: Ini di halaman pertama. Tapi ndak tau tertumpuk dimana.
+61: Him: Ini di halaman pertama. Tapi ndak tau tertumpuk dimana. Pusing wkwkwk.
 62. Me: Susunan threadnya menyulitkan untuk mencari yang baru diupload?
 63. Him: Iya mas.
 64. Me: Oke. Untuk interview udah selesai sampai sini ya. Makasih udah menyediakan waktunya :)

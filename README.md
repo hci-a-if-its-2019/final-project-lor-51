@@ -290,6 +290,7 @@ Online forums is a place of discussion. Where people can hold conversation in th
 - A male, 15 years of age
 - High school student
 - Never used online forums
+- Play games alot
 ##### Transcript
 ```
 1. Me: Haloo. Makasih udah menyediakan waktu untuk interview sebentar. Jadi ini aku ada aplikasi forum online. Nanti bakalan ada beberapa instruksi yang harus kamu lakukan.
@@ -335,6 +336,17 @@ Online forums is a place of discussion. Where people can hold conversation in th
 41: Me: Instruksi selanjutnya adalah untuk sortir thread mulai dari tertua.
 42. Him: Kategori ini ta? Ini adanya tombol "Older".. Tapi dia malah ke halaman selanjutnya. Masa aku harus sampai halaman akhir wkwkwk.
 43. Me: Hmm coba dieksplorasi dulu.
+44. Him: Ndak nemu mas. Lanjut ke instruksi aja.
+45. Me: Oke, selanjutnya adalah untuk Flag suatu thread.
+46. Him: Oh, flag tadi sebelahnya Reply.. Ini alasan flag aku isi terserah ya?
+47. Me: Iya. Sudah selesai?
+48. Him: Sudah mas.
+49. Me: Sekarang Rate thread.
+50. Him: Oh sepaket ya hahaha, udah mas, saling bersebelahan tombolnya.
+51. Me: Apa mengalami kesulitan untuk rate dan flag?
+52. Him: Enggak ada mas.
+53. Me: Oke, ini yang terakhir. Coba untuk bikin thread baru.
+54.
 
 ```
 

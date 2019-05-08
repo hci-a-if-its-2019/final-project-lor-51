@@ -287,9 +287,51 @@ Online forums is a place of discussion. Where people can hold conversation in th
 
 ##### Participant 5
 
+- A male, 15 years of age
+- High school student
+- Never used online forums
 ##### Transcript
 ```
-todo: Ha
+1. Me: Haloo. Makasih udah menyediakan waktu untuk interview sebentar. Jadi ini aku ada aplikasi forum online. Nanti bakalan ada beberapa instruksi yang harus kamu lakukan.
+2. Him: Oke.
+3. Me: Pertama, aku mau tanya. Kamu tau online forums?
+4. Him: Iya tahu.
+5. Me: Pernah pakai?
+6. Him: Enggak pernah... Bukannya itu untuk bapak-bapak ya?
+7. Me: Enggak, ada variasi topic, untuk anak muda juga bisa.
+8. Me: Kamu pengguna sosmed aktif?
+9. Him: Enggak juga sih, lebih ke main game dan entertainment (Youtube).
+10. Me: Oke.
+11. Me: Instruksi pertama.. Coba kamu cari kategori dengan thread terbanyak.
+12. Him: Hmm... tahunya yang terbanyak dari apa? *Mengecek satu-satu kategory*
+13. Him: Ini aku masuk kategori isinya teks banyak mas wkwk. Tapi ndak ada tulisan kalau kategori ini terbanyak atau bukan.
+14. Me: Yang kamu lihat sekarang apa?
+15. Him: Hm yaa ada label terus dibawahnya ada label juga, tapi agak geser ke kanan.
+16. Me: Apa kamu sudah menemukan kategori dengan jumlah terbanyak?
+17. Him: Belum mas
+18. Me: Kesulitan apa yang kamu alami?
+19. Him: Ndak ada penanda yang bisa aku temukan.
+20. Me: Oke.. mau tetap mencari atau ke instruksi berikutnya?
+21. Him: Next aja mas.
+22. Me: Menurutmu apa yang bisa mempermudah untuk mencari kategori dengan thread terbanyak?
+23. Him: Yaa paling gampang ada tombol untuk langsung mengurutkan dari terbanyak.
+24. Me: Oke... Instruksi selanjutnya coba kamu cari thread dengan keyword "Donald Trump".
+25. Him: Pakai search bar ini mas?
+26. Me: Lanjutkan aja... Kalau kesulitan langsung ngomong aja.
+27. Him: Ini mas... Muncul buku sama topeng Donald Trump. *Interviewee searched in the sell-buy section, not the forums*
+28. Me: Hmmm. Okay, ada search lain ndak selain itu?
+29. Him: Aku nemunya yang itu sih mas...
+30. Me: Sekarang kamu kembali ke halaman kategori forum. Terus pilih salah satu kategori.
+31. Him: Aku pilih yang Android mas.
+32. Me: Sekarang kamu pilih salah satu thread, terus lakukan reply,
+33. Him: Okee. Ini udah nemu, di kanan atas.
+34. Me: Ndak ada kesulitan ya?
+35. Him: Ndak, cuman designnya kurang bagus aja, kalau dijadikan tombol lebih dapat perhatiannya.
+36. Him: Ini aku isi apa mas?
+37: Me: Title isi "Android phone", terus Body "Android is not better than iPhone. Hahaha.
+38. Him: Udah mas.
+39. Me: Ndak ada masalah ya?
+40. Him: Lancar...
 ```
 
 ##### Participant 6

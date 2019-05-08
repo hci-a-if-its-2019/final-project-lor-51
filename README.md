@@ -1,6 +1,6 @@
 ## Anggota kelompok
 
-1. Andika Andra - 0511164000005
+1. Andika Andra - 05111640000058
 2. Adistya Azhar - 05111640000103
 3. Elvega Dewangga - 05111640000149
 
@@ -335,13 +335,15 @@ todo: Ha
 > **Problem 7** : (Participant 1: 30) participant had difficulty reading if the comment was too long
 ---
 ### Flow Model
-
+![flow model](img/imk-Flow.jpg)
 ### Cultural Model
+
 
 ## Do's And Don't
 ### Do
+- Do give attractive scheme
 - 
 - 
 ### Don't
-- 
-- 
+- Don't have illicit content
+- Don't use small font size for important information

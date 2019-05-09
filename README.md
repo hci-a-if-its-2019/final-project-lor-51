@@ -190,7 +190,6 @@ Online forums is a place of discussion. Where people can hold conversation in th
 61. Him: Sama-sama
 
 
-
 ```
 ##### Participant 3
 - A male, 21 years old.
@@ -290,7 +289,6 @@ Online forums is a place of discussion. Where people can hold conversation in th
 41. Me  : Oke terimakasih atas bantuannya
 42. Her : Sama-sama
 ```
-
 
 ##### Participant 5
 

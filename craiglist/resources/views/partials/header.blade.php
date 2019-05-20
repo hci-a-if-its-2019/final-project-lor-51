@@ -43,17 +43,9 @@
                 <div class="container">
                     <!-- nav -->
                     <ul class="nav-menu">
-                        <li class="has-dropdown">
-                            <a href="{{url('')}}">Home</a>
-                            <div class="dropdown">
-                                <div class="dropdown-body">
-                                    <ul class="dropdown-list">
-                                        <li><a href="{{url('forums')}}">Forums</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="has-dropdown megamenu">
+                        <li><a href="{{url('/')}}">Home</a></li>
+
+                        {{-- <li class="has-dropdown megamenu">
                             <a href="#">Lifestyle</a>
                             <div class="dropdown tab-dropdown">
                                 <div class="row">
@@ -194,8 +186,8 @@
                                     </div>
                                 </div>
                             </div>
-                        </li>
-                        <li class="has-dropdown megamenu">
+                        </li> --}}
+                        {{-- <li class="has-dropdown megamenu">
                             <a href="#">Fashion</a>
                             <div class="dropdown">
                                 <div class="dropdown-body">
@@ -248,7 +240,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </li>
+                        </li> --}}
                         <li><a href="{{url('forums')}}">Forums</a></li>
                     </ul>
                     <!-- /nav -->

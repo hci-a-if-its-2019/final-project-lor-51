@@ -12,6 +12,9 @@
     <link type="text/css" rel="stylesheet" href="{{asset('callie/css/bootstrap.min.css')}}" />
     <link rel="stylesheet" href="{{asset('callie/css/font-awesome.min.css')}}">
     <link type="text/css" rel="stylesheet" href="{{asset('callie/css/style.css')}}" />
+    <link href="//cdn.quilljs.com/1.3.6/quill.snow.css" rel="stylesheet">
+    <link href="//cdn.quilljs.com/1.3.6/quill.bubble.css" rel="stylesheet">
+
     @yield('style')
 </head>
 <body>
@@ -20,11 +23,14 @@
     @yield('content')
 
     @include('partials.footer')
-    <!-- jQuery Plugins -->
+    
     <script src="{{asset('callie/js/jquery.min.js')}}"></script>
     <script src="{{asset('callie/js/bootstrap.min.js')}}"></script>
     <script src="{{asset('callie/js/jquery.stellar.min.js')}}"></script>
     <script src="{{asset('callie/js/main.js')}}"></script>
+    <script src="//cdn.quilljs.com/1.3.6/quill.js"></script>
+    <script src="//cdn.quilljs.com/1.3.6/quill.min.js"></script>
+
     @yield('script')
 
 </body>

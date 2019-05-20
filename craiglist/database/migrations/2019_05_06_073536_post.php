@@ -19,6 +19,7 @@ class Post extends Migration
             $table->text('body');
             $table->integer('rating')->nullable();
             $table->integer('flag')->nullable();
+            $table->string('category');
             $table->timestamps();
         });
     }

@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Comment;
+use App\Post;
 
 class PageController extends Controller
 {
@@ -38,6 +39,7 @@ class PageController extends Controller
 	}
 	
 	public function viewPostCategories($name, $amount) {
-		return view('posts', ['name' => $name, 'amount' => $amount]);
+		$posts = Post::where('category', $name)->get();
+		return view('posts', ['name' => $name, 'amount' => $amount, 'posts' => $posts]);
 	}
 }

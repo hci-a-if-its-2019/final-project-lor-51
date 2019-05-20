@@ -143,9 +143,11 @@
 								</div>
 								<div class="col-md-12">
 									<div class="form-group">
-										<textarea class="input" name="message" placeholder="Message"></textarea>
+										<div class="input message"></div>
+										{{-- <textarea class="input message" name="message" placeholder="Message"></textarea> --}}
 									</div>
 								</div>
+								<input type="hidden" name="message">
 								<div class="col-md-12">
 									<button class="primary-button" type="submit">Submit</button>
 								</div>
@@ -235,6 +237,15 @@
 
 @section('script')
 <script>
+	var quill = new Quill('.input.message', {
+		theme: 'snow'
+	});
+
+	$(".post-post").on('submit', function() {
+		let quillContent = quill.root.innerHTML;
+		$("input[name='message']").val(quillContent);
+	});
+
 	$(".reply").click(function() {
 	  	id = $(this).data("id");
 	  	$(this).hide();

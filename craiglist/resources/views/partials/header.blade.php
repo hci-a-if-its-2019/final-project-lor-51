@@ -16,7 +16,7 @@
 
                     <!-- logo -->
                     <div class="nav-logo">
-                        <a href="{{url('')}}" class="logo"><img src="{{asset('callie/img/logo.png')}}" alt=""></a>
+                        <a href="{{url('')}}" class="logo"><img src="{{asset('callie/img/logo-craiglist.JPG')}}" alt=""></a>
                     </div>
                     <!-- /logo -->
 

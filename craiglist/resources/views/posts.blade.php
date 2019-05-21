@@ -13,7 +13,7 @@
 	<div class="section">
 		<!-- container -->
 		<div class="container">
-		<p>{{$amount}} threads found for category {{ucfirst($name)}}</p>
+		<p>{{$posts->count()}} threads found for category {{ucfirst($name)}}</p>
 		<button class="btn btn-primary add" style="float: right">Add New Thread</button>
 			<!-- row -->
 			<div class="row">

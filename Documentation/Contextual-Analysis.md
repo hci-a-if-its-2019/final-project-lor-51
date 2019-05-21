@@ -41,5 +41,4 @@
 - Be consistent
 - Make a good and visible UI 
 ### Don't
-- Don't have illicit content
 - Don't use small font size for important information

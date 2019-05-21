@@ -23,7 +23,7 @@
     @yield('content')
 
     @include('partials.footer')
-    
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
     <script src="{{asset('callie/js/jquery.min.js')}}"></script>
     <script src="{{asset('callie/js/bootstrap.min.js')}}"></script>
     <script src="{{asset('callie/js/jquery.stellar.min.js')}}"></script>

@@ -148,7 +148,7 @@
         @if(Auth::check())
             $(".post-modal").modal('show');
         @else
-            alert("Please log in first!");
+            swal("Notice!", "Please log in first!", "error");
         @endif
     });
 

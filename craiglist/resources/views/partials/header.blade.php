@@ -55,7 +55,7 @@
             <div id="nav-aside">
                 <ul class="nav-aside-menu">
                     <li><a href="{{url('')}}">Home</a></li>
-                    <li class="has-dropdown"><a>Categories</a>
+                    <li class="has-dropdown"><a>Forums</a>
                         <ul class="dropdown">
                             <li><a href="#">Lifestyle</a></li>
                             <li><a href="#">Fashion</a></li>
@@ -64,9 +64,7 @@
                             <li><a href="#">Health</a></li>
                         </ul>
                     </li>
-                    <li><a href="about.html">About Us</a></li>
-                    <li><a href="contact.html">Contacts</a></li>
-                    <li><a href="#">Advertise</a></li>
+
                     @guest
                         <li><a href="/login">Login</a></li>
                     @else

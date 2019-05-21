@@ -79,7 +79,7 @@
                                 <p>{!! $comment->message !!}</p>
                                 <a href="javascript:void(0)" class="reply" data-id="{{$comment->id}}"
                                     id="comment{{$comment->id}}">Reply</a>
-                                <button class="flag">Flag</button>
+                                <button class="flag" comment-id="{{$comment->id}}">Flag</button>
 
                                 <div class="row" style="display: none" id="comment-form{{$comment->id}}">
                                     <form class="post-reply" action="{{url('add/reply')}}" method="post">
@@ -171,21 +171,7 @@
                 <!-- /ad widget -->
 
                 <!-- category widget -->
-                <div class="aside-widget">
-                    <div class="section-title">
-                        <h2 class="title">Categories You Might Like</h2>
-                    </div>
-                    <div class="category-widget">
-                        <ul>
-                            <li><a href="#">Lifestyle <span>451</span></a></li>
-                            <li><a href="#">Fashion <span>230</span></a></li>
-                            <li><a href="#">Technology <span>40</span></a></li>
-                            <li><a href="#">Travel <span>38</span></a></li>
-                            <li><a href="#">Health <span>24</span></a></li>
-                        </ul>
-                    </div>
-                    <a href="#">See more categories</a>
-                </div>
+                @include('partials.categories')
                 <!-- /category widget -->
 
                 <!-- Ad widget -->
@@ -280,7 +266,7 @@
 
     $(".flag-save").click(function () {
         $(".modal").modal('hide');
-        alert("Reply/ thread has been flagged! Craiglist staff will review your report.");
+        swal("Done", "Comment has been flagged! Craiglist staff will review your report.", "success");
     });
 
 </script>

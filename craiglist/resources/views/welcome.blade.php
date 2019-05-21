@@ -1,5 +1,13 @@
 @extends('layouts.app')
 
+@section('style')
+<style>
+    .post-title {
+        font-weight: 500;
+    }
+</style>
+@endsection
+
 @section('content')
 <!-- SECTION -->
 <div class="section">
@@ -22,13 +30,13 @@
                     <!-- post -->
                     @foreach ($posts1 as $post)
                         <div class="post post-widget">
-                            <a class="post-img" href="{{url('forum/thread')}}"><img
+                            <a class="post-img" href="{{url('forum/thread/', $post->id)}}"><img
                                     src="{{asset('storage/' . $post->img_location)}}" alt=""></a>
                             <div class="post-body">
                                 <div class="post-category">
-                                    <a href="category">{{ucfirst($post->category)}}</a>
+                                    <a href="categories/{{$post->category}}/threads">{{ucfirst($post->category)}}</a>
                                 </div>
-                                <h3 class="post-title"><a href="{{url('forum/thread')}}">{{$post->title}}</a></h3>
+                                <h3 class="post-title"><a href="{{url('forum/thread', $post->id)}}">{{str_limit($post->title, 100)}}</a></h3>
                             </div>
                         </div>
                     @endforeach
@@ -39,36 +47,23 @@
                     @foreach ($posts2 as $post)
                         <!-- post -->
                         <div class="post post-widget">
-                            <a class="post-img" href="{{url('forum/thread')}}"><img
+                            <a class="post-img" href="{{url('forum/thread', $post->id)}}"><img
                                     src="{{asset('storage/' . $post->img_location)}}" alt=""></a>
                             <div class="post-body">
                                 <div class="post-category">
-                                    <a href="category">{{ucfirst($post->category)}}</a>
+                                    <a href="categories/{{$post->category}}/threads">{{ucfirst($post->category)}}</a>
                                 </div>
-                                <h3 class="post-title"><a href="{{url('forum/thread')}}">{{$post->title}}</a></h3>
+                                <h3 class="post-title"><a href="{{url('forum/thread', $post->id)}}">{{str_limit($post->title, 100)}}</a></h3>
                             </div>
                         </div>
                         <!-- /post -->
                     @endforeach
                 </div>
 
-            <div class="col-md-4">
-
-                <!-- category widget -->
-                <div class="aside-widget">
-                    <div class="section-title">
-                        <h2 class="title">Categories</h2>
-                    </div>
-                    <div class="category-widget">
-                        <ul>
-                            @include('partials.categories')
-                        </ul>
-                    </div>
-                </div>
-                <!-- /category widget -->
-
             </div>
-        </div>
+            <div class="col-md-4">                    
+                @include('partials.categories')
+            </div>
         <!-- /row -->
     </div>
     <!-- /container -->

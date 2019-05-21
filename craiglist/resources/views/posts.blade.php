@@ -44,7 +44,7 @@
 
                 </div>
                 <div class="section-row loadmore text-center">
-                    <button class="primary-button see-more">Load More</button>
+                        {{ $posts->links() }}
                 </div>
             </div>
 
@@ -58,16 +58,7 @@
                 <!-- /ad widget -->
 
                 <!-- category widget -->
-                <div class="aside-widget">
-                    <div class="section-title">
-                        <h2 class="title">Categories</h2>
-                    </div>
-                    <div class="category-widget">
-                        <ul>
-                            @include('partials.categories')
-                        </ul>
-                    </div>
-                </div>
+                @include('partials.categories')
                 <!-- /category widget -->
 
                 <!-- Ad widget -->

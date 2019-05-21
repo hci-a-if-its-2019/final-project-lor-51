@@ -1,5 +1,18 @@
-<li><a href="/categories/lifestyle/threads">Lifestyle <span>451</span></a></li>
-<li><a href="/categories/Fashion/threads">Fashion <span>230</span></a></li>
-<li><a href="/categories/Technology/threads">Technology <span>40</span></a></li>
-<li><a href="/categories/Travel/threads">Travel <span>38</span></a></li>
-<li><a href="/categories/Health/threads">Health <span>24</span></a></li>
+<!-- category widget -->
+<div class="aside-widget">
+    <div class="section-title">
+        <h2 class="title">Categories</h2>
+    </div>
+    <div class="category-widget">
+        <ul>
+            <li><a href="/categories/lifestyle/threads">Lifestyle <span>{{$lifestyleCount}}</span></a>
+            </li>
+            <li><a href="/categories/Fashion/threads">Fashion <span>{{$fashionCount}}</span></a></li>
+            <li><a href="/categories/Technology/threads">Technology
+                    <span>{{$technologyCount}}</span></a></li>
+            <li><a href="/categories/Travel/threads">Travel <span>{{$travelCount}}</span></a></li>
+            <li><a href="/categories/Health/threads">Health <span>{{$healthCount}}</span></a></li>
+        </ul>
+    </div>
+</div>
+<!-- /category widget -->

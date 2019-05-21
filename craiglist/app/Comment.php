@@ -16,5 +16,6 @@ class Comment extends Model
 
     public function thread() {
         return $this->belongsTo('App\Post');
+
     }
 }

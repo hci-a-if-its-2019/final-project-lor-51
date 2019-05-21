@@ -9,8 +9,8 @@ class PostsController extends Controller
 {
     public function storePost(Request $request)
     {
-        $path = $request->file('img_location')->store('posts');
-        // $path = str_replace("public", "", $path);
+        $path = $request->file('img_location')->store('public/posts');
+        $path = str_replace("public/", "", $path);
         Post::create([
             'title'  => $request->title,
             'body' => $request->body,

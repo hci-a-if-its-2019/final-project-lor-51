@@ -14,7 +14,6 @@ class PageController extends Controller
     }
 
     public function threadPost(){
-    	// return $thread;;
     	$comments = Comment::all();
     	return view('thread', compact('comments'));
     }
@@ -23,7 +22,8 @@ class PageController extends Controller
     	Comment::create([
           	'parent' => 0,
           	'name' => $request->name,
-          	'message' => $request->message,
+			'message' => $request->message,
+			'post_id' => $request->post_id
       	]);
       	return redirect()->back();
     }
@@ -39,7 +39,7 @@ class PageController extends Controller
 	}
 	
 	public function viewPostCategories($name) {
-		$posts = Post::where('category', $name)->get();
+		$posts = Post::where('category','like', '%'.$name.'%')->get();
 		return view('posts', ['name' => $name, 'posts' => $posts]);
 	}
 }

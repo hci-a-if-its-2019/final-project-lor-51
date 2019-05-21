@@ -25,3 +25,4 @@ Route::post('/add/reply', 'PageController@addReply');
 Route::get('categories/{name}/threads', 'PageController@viewPostCategories');
 
 Route::post('posts', 'PostsController@storePost');
+Route::get('forum/thread/{id}', 'PostsController@viewPost');

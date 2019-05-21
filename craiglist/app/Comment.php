@@ -13,4 +13,8 @@ class Comment extends Model
     {
         return $this->belongsTo('App\Comment', 'parent', 'id');
     }
+
+    public function thread() {
+        return $this->belongsTo('App\Post');
+    }
 }

@@ -85,7 +85,7 @@
 	<div class="modal fade post-modal" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
 		<div class="modal-dialog modal-lg">
 			<div class="modal-content">
-				<form action="/posts" method="POST" class="post-form">
+				<form action="/posts" method="POST" class="post-form" enctype='multipart/form-data'>
 					<div class="form-group">
 						<label for="title">Title</label>
 						<input type="text" name="title" id="" class="form-control">
@@ -96,6 +96,9 @@
 						</div>
 						<input type="hidden" name="body">
 						<input type="hidden" name="category" value="{{$name}}">
+					</div>
+					<div class="form-group">
+						<input type="file" name="img_location" id="">
 					</div>
 					<button class="btn btn-success" type="submit">Create Thread</button>
 				</form>

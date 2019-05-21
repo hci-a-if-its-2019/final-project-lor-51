@@ -20,6 +20,7 @@ class Post extends Migration
             $table->integer('rating')->nullable();
             $table->integer('flag')->nullable();
             $table->string('category');
+            $table->string('img_location')->nullable();
             $table->timestamps();
         });
     }

@@ -68,7 +68,7 @@
                     <li><a href="contact.html">Contacts</a></li>
                     <li><a href="#">Advertise</a></li>
                     @guest
-                        <li><a href="{{('login')}}">Login</a></li>
+                        <li><a href="/login">Login</a></li>
                     @else
                         <li>
                             <a href="{{ url('logout') }}" onclick="event.preventDefault(); document.getElementById('logout-form').submit();">

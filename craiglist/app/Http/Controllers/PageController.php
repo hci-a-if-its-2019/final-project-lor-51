@@ -37,10 +37,9 @@ class PageController extends Controller
     }
 
     public function addreply(Request $request){
-    	// return $request;
     	Comment::create([
           	'parent' => $request->parent,
-          	'name' => $request->name,
+          	'name' => Auth::user()->name,
           	'message' => $request->message,
       	]);
     	return redirect()->back();

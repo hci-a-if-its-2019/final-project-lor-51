@@ -121,8 +121,8 @@
 				<a class="post-img" href="{{url('forum/thread')}}"><img src="{{asset('callie/img/post-13.jpg')}}" alt=""></a>
 				<div class="post-body">
 					<div class="post-category">
-						<a href="category.html">Travel</a>
-						<a href="category.html">Lifestyle</a>
+						<a href="#">Travel</a>
+						<a href="#">Lifestyle</a>
 					</div>
 					<h3 class="post-title"><a href="{{url('forum/thread')}}">Mel ut impetus suscipit tincidunt. Cum id ullum laboramus persequeris.</a></h3>
 					<ul class="post-meta">
@@ -145,7 +145,11 @@
     });
 
     $(".add").click(function () {
-        $(".post-modal").modal('show');
+        @if(Auth::check())
+            $(".post-modal").modal('show');
+        @else
+            alert("Please log in first!");
+        @endif
     });
 
 </script>

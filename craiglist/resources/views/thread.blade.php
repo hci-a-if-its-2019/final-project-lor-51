@@ -119,27 +119,45 @@
                     <div class="section-title">
                         <h3 class="title">Leave a reply</h3>
                     </div>
-                    <form class="post-post" action="{{url('add/comment')}}" method="post">
-                        @csrf
-                        <div class="row">
-                            <div class="col-md-4">
-                                <div class="form-group">
-                                    <input class="input" type="text" name="name" placeholder="Name">
+                    @if (Auth::check())
+                        <form class="post-post" action="{{url('add/comment')}}" method="post">
+                            @csrf
+                            <div class="row">
+                                {{-- <div class="col-md-4">
+                                    <div class="form-group">
+                                        <input class="input" type="text" name="name" placeholder="Name">
+                                    </div>
+                                </div> --}}
+                                <div class="col-md-12">
+                                    <div class="form-group">
+                                        <div class="input message"></div>
+                                        {{-- <textarea class="input message" name="message" placeholder="Message"></textarea> --}}
+                                    </div>
+                                </div>
+                                <input type="hidden" name="post_id" value="{{$post->id}}">
+                                <input type="hidden" name="message">
+                                <div class="col-md-12">
+                                    <button class="primary-button" type="submit">Submit</button>
                                 </div>
                             </div>
-                            <div class="col-md-12">
-                                <div class="form-group">
-                                    <div class="input message"></div>
-                                    {{-- <textarea class="input message" name="message" placeholder="Message"></textarea> --}}
+                        </form>
+                    @else
+                        <form class="#" action="#">
+                            @csrf
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <div class="form-group">
+                                        <div class="input message"></div>                                        
+                                    </div>
+                                </div>
+                                <input type="hidden" name="post_id" value="{{$post->id}}">
+                                <input type="hidden" name="message">
+                                <div class="col-md-12">
+                                    <button class="primary-button" type="button">Please log in to reply</button>
                                 </div>
                             </div>
-                            <input type="hidden" name="post_id" value="{{$post->id}}">
-                            <input type="hidden" name="message">
-                            <div class="col-md-12">
-                                <button class="primary-button" type="submit">Submit</button>
-                            </div>
-                        </div>
-                    </form>
+                        </form>
+                    @endif
                 </div>
                 <!-- /post reply -->
             </div>

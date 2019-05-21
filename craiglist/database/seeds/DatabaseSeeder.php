@@ -15,7 +15,7 @@ class DatabaseSeeder extends Seeder
     {
         // $this->call(UsersTableSeeder::class);
         $faker = Faker::create('id_ID');
-		for ($i=0; $i < 4; $i++) { 
+		for ($i=0; $i < 4; $i++) {
             $user = Comment::create([
                 'parent'  => 0,
                 'name' => $faker->name,

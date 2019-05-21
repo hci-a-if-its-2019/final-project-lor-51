@@ -22,11 +22,11 @@
                         <h3 class="footer-title">Categories</h3>
                         <div class="category-widget">
                             <ul>
-                                <li><a href="#">Lifestyle <span>451</span></a></li>
-                                <li><a href="#">Fashion <span>230</span></a></li>
-                                <li><a href="#">Technology <span>40</span></a></li>
-                                <li><a href="#">Travel <span>38</span></a></li>
-                                <li><a href="#">Health <span>24</span></a></li>
+                                <li><a href="{{url('categories/lifestyle/threads')}}">Lifestyle <span>451</span></a></li>
+                                <li><a href="{{url('categories/fashion/threads')}}">Fashion <span>230</span></a></li>
+                                <li><a href="{{url('categories/technology/threads')}}">Technology <span>40</span></a></li>
+                                <li><a href="{{url('categories/travel/threads')}}">Travel <span>38</span></a></li>
+                                <li><a href="{{url('categories/health/threads')}}">Health <span>24</span></a></li>
                             </ul>
                         </div>
                     </div>

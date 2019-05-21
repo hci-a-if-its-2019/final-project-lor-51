@@ -126,7 +126,7 @@
 					</div>
 					<h3 class="post-title"><a href="{{url('forum/thread')}}">Mel ut impetus suscipit tincidunt. Cum id ullum laboramus persequeris.</a></h3>
 					<ul class="post-meta">
-						<li><a href="author.html">John Doe</a></li>
+						<li><a href="#">John Doe</a></li>
 						<li>20 April 2018</li>
 					</ul>
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam...</p>

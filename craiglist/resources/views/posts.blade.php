@@ -95,7 +95,7 @@
 							
 						</div>
 						<input type="hidden" name="body">
-						<input type="hidden" name="category" value="android">
+						<input type="hidden" name="category" value="{{$name}}">
 					</div>
 					<button class="btn btn-success" type="submit">Create Thread</button>
 				</form>

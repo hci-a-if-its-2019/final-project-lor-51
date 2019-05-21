@@ -38,8 +38,8 @@ class PageController extends Controller
     	return redirect()->back();
 	}
 	
-	public function viewPostCategories($name, $amount) {
+	public function viewPostCategories($name) {
 		$posts = Post::where('category', $name)->get();
-		return view('posts', ['name' => $name, 'amount' => $amount, 'posts' => $posts]);
+		return view('posts', ['name' => $name, 'posts' => $posts]);
 	}
 }

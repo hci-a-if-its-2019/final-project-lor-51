@@ -17,6 +17,10 @@
 - Never heard of Craiglist forums
 - Use social media daily
 ##### c. Description of Participant 3
+- A male, 22 years old.
+- A student of ubaya
+- He had experienced about using social media / forum.
+- not realy enjoy socialising
 ##### d. Description of Participant 4
 - A male, 22 years old.
 - A student of Hang Tuah Ocean Engineering.
@@ -29,6 +33,10 @@
 - Never heard of Craiglist forum
 - Knows Craiglist secondhand sell and buy feature
 ##### f. Description of Participant 6
+- A male, 21 years old.
+- A student of ubaya
+- He had experienced about using social media / forum.
+- Enjoy Using kaskus(Forum Discussion)
 
 #### 2. Preliminary Interview Questions
 1. Did you ever use soscial media before?
@@ -159,6 +167,50 @@
 ```
 
 ##### c. Transcript with Participant 3
+```
+1. Me  : Makasih Mas udah meluangkan waktunya buat wawancara prototype terbaru craiglist setelah wawancara pada website craiglist senbelumnya
+2. Him : iya mas selow
+3.  Me  : mas sekarang coba login id passwordnya ada di notepad
+4.  Him : Oke tunggu sebentar
+5.  Me  : giamana mas login nya
+6.  Him : agak bingung sih mas awalnya soalnya login tidak di halaman utama tapi sebener nya ngga susah di temuin
+7.  Me  : Okee, skearang silahkan cari kategori yang memiliki thread paling banyak
+8.  Him : yang ini kan mas
+9.  Me  : Bagaimana anda tahu?
+10. Him : Ada nomer di samping nya itu menunjukkan jumlah tread nya kan?
+11. Me  : yup bener sekali susah kah menemukan nya?
+12. Him : ngga mas
+13. Me  : Sip, sekarang coba anda cari dengan keyword 'Donald Trump'
+14. Him : Okee, ini udah tapi not found
+15. Me  : mas untuk sistem pencarian nya huruf kecil besar nya harus diperhatikan lagi
+16. Him : oalah gitu ternyata
+17. Me  : susah kah mas menggunakan nya?
+18. Him : ngga sih mas cuma biasanya klo buat forum lebih enak nge discover gitu liat" apa yang menarik. 
+17. Me  : Oke sekarang coba mas buka 'Sunset'
+18. Him : ok mas , udah ni keren mas
+19. Me  : coba sekarang reply tread nya mas
+20. Him : dibawah kan mas ini ,udah mas
+21. Me  : oke mas sekarang coba ke halam utama lagi.
+22. Him : udah mas
+23. Me  : nah kan ini dari terbaru ke terlama, coba mas sort by oldest jadi yang terlama dulu
+24. Him : Ini udah
+23. Me  : menurutmas bagaimana?
+24. Him : ini tinggal di sort aja mau gimana , ez mas 
+25. Me  : haha , Sekarang mas coba rate thread yang tadi
+26. Him : Okee, udah selesai
+27. Me  : Bagaimana menurutmu?
+28. Him : keliahatan jelas mas , soalnya bentuk nya kaya tombol gitu warna nya beda
+29. Me  : wah udah di rate ama flag aja
+30. Him : Oiya belum di perintahin ya mas, soalnya tombol nya berdekatan ku kira disuruh sekalian wkwk
+29. Me  : iya mas ini saya juga mau nyaranin mas buat ngelakuin itu tapi karna udah mas lakuin jadi yuasudah
+30. Me  : Mas Menurut mas bagaimana craiglist yang sekarang
+31. Him : Jelas sih mas, saya yang ngga banyak mengunjungi aplikasi lain juga bisa dengan mudah ngakses nya , yang kemarin tuh horror mas tulisan nya kecil" tampilan nya gajelas haha
+32. Me  : iya mas saya disini pingin memperbaiki website tersebut
+33. Me  : Makasih ya mas buat waktunya
+34 Him  : Oke mas sama" 
+
+```
+
 ##### d. Transcript with Participant 4
 ```
 1.  Me  : Selamat malam, sekarang saya meminta tolong anda untuk melakukan uji coba dengan forum Craiglist yang telah kelompok kami buat
@@ -260,6 +312,54 @@
 52. Me: Oh yaudah. Makasih yaa, udah selesai!
 ```
 ##### f. Transcript with Participant 6
+```
+1.  Me  : Makasih Mas udah meluangkan waktunya buat wawancara
+2.  Him : iya mas emang lagi luang kok
+3.  Me  : mas saya tunjukan dulu aplikasi yang telah saya buat
+4.  Him : Bagus mas tampilan nya ini mas beneran yang bikin
+5.  Me  : Iya mas hehe
+6.  Me  : Coba mas sekarang login id password nya ada di notepad
+7.  Him : Oke tunggu sebentar
+8.  Me  : giamana mas login nya
+9.  Him : agak bingung sih mas awalnya tapi di atas kaya ada tombol buat extend ternyata disitu
+10. Me  : Okee, sekarang silahkan cari kategori yang memiliki thread paling banyak
+11. Him : yang ini kan mas
+12. Me  : Bagaimana anda tahu?
+13. Him : ini ada nomer nya
+14. Me  : Jelas ya mas berarti itu untuk jumlah thread nya
+15. Him : iya mas
+16. Me  : Sip, sekarang coba anda cari dengan keyword 'Donald Trump'
+17. Him : Okee, ini udah tapi not found
+18. Me  : mas untuk sistem pencarian nya huruf kecil besar nya harus diperhatikan lagi
+19. Him : oalah gitu ternyata
+20. Me  : susah kah mas menggunakan nya?
+21. Him : agak susah sih mas sebenrnya klo harus sama kalimat nya, tapi ngga ada masalah 
+22. Me  : Oke sekarang coba mas buka Thread 'Sunset'
+23. Him : ok mas , ada pop up nya mas baguss
+24. Me  : iya mas makasih
+25. Me  : coba sekarang reply tread nya mas
+26. Him : oke mas bentar ya
+27. Me  : Menurut mas gimana untuk komen nya
+28. Him : agak bingung mas soalnya ada 2 kotak kosong tadi tapi karna biasanya yang bawah say pilih yang bawah
+29. Me  : oke mas sekarang coba ke halam utama lagi.
+30. Him : udah mas
+31. Me  : nah kan ini dari terbaru ke terlama, coba mas sort by oldest jadi yang terlama dulu
+32. Him : Ini udah
+33. Me  : menurutmas bagaimana?
+34. Him : keliatan kok mas tombol sortnya ada di atas jadi ngga susah
+35. Me  : oke mas coba sekarang mas buka thread tadi terus rate thread nya
+36. Him : Okee, udah selesai
+37. Me  : Bagaimana menurutmu?
+38. Him : keliahatan jelas mas , soalnya bentuk nya kaya tombol gitu warna nya beda
+39. Me  : oke mas serkarang coba mas flag
+40. Him : oke mas udah btw flag itu buat apa I?
+41. Me  : Buat nandain aja sih mas sebenernya
+42. Me  : Bagaimana Pendapat nya soal website tadi
+43. Him : Bagus sih mas agak mirip ama kaskus tapi ini lebih jelasss, saya juga suka ama tampilan nya
+44. Me  : Makasih ya mas
+45 Him  : Oke mas
+
+```
 
 #### 4. Feedback and Incidence Analysis
 ##### Observation 1

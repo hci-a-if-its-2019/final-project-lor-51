@@ -27,6 +27,11 @@
 - He had experienced about using social media.
 - Never heard about Craiglist.
 ##### e. Description of Participant 5
+- 15 years old, high school student
+- Male
+- Daily internet user for entertainment purposes (youtube)
+- Never heard of Craiglist forum
+- Knows Craiglist secondhand sell and buy feature
 ##### f. Description of Participant 6
 - A male, 21 years old.
 - A student of ubaya
@@ -256,6 +261,60 @@
 ```
 
 ##### e. Transcript with Participant 5
+```
+1. Me: Coba sekarang kamu login dengan akun yang saya sediakan ini.
+2. Him: Oh ini Craiglist... Sudah login.
+3. Me: Apa mengalami kesulitan?
+4. Him: Ndak. Tinggal mengisi username dan password.
+5. Me: Ok. Sekarang kamu cari kategori dengan post terbanyak. Kategori apa?
+6. Him: (Diam sejenak) Ehh lifestyle.
+7. Me: Ada berapa?
+8. Him: 6.
+9. Me: Kok tau ada 6?
+10. Him: Di samping kanan ada angkanya.
+11. Me: Ok coba kamu liat post nya apa saja. Terus cek apa benar ada 6.
+12. Him: Halaman ini ada 5. Next... ada 1. Ada 6 total. Halamannya ada 2.
+13. Me: Apakamu mengalami kesulitan untuk mencari jumlah post per kategori?
+14. Him: Ndak. Mudah kok.
+15. Me: Menurutmu apa perlu per halaman hanya ada 5?
+16. Him: Iya. Biar ndak terlalu scroll panjang ke bawah.
+17. Me: Sekarang cari search bar. Terus search "vegan".
+18. Me: Berapa result yang kamu temukan?
+19. Him: 1
+20. Me: Apakah mengalami kesulitan untuk mencari search?
+21. Him: Ndak. Karena ada didepan mata dan setiap halaman ada icon search.
+22. Me: Menurutmu berguna ndak?
+23. Him: Iya. Karena membantu untuk mencari post yang aku tertarik.
+24. Me: Sekarang kamu masuk ke suatu thread. Terus beri komentar.
+25. Him: Ini dibaca dulu?
+26. Me: Ndausah gapapa. Apa sudah menemukan section komentar?
+27. Him: Sudah. Ada dibawah.
+28. Me: Coba kamu beri komentar terus di format text nya.
+29. Him: Udah. Ini aku underline. Biar keliatan penting.
+30. Me: Ok. Mudah kah?
+31. Him: Mudaah.
+32. Me: Ok. Sekarang kamu sorting post.
+33. Him: Gimana caranya?
+34. Me: Coba di explore dulu.
+35. Him: Ok udah. Ini aku pencet Newest First.
+36. Me: Coba cek apa tanggalnya sudah benar?
+37. Him: Loh ini beda. Tanggalnya campur-campur, ndak urut.
+38. Me: Oh ya, ada kesalahan itu. Lanjut aja ya.
+39. Me: Instruksi selanjutnya, kamu masuk ke suatu  thread. Terserah yang mana. Terus flah postnya.
+40. Him: Udah. AKu centang apa?
+41. Me: Hmmm "hate speech".
+42. Him: Muncul teks Done dengan logo centang hijau.
+43. Me: Ok. Sekarang bikin post baru.
+44. Him: Gimana caranya?
+45. Me: Ya cari dulu.
+46. Him: (setelah mencari di setiap halaman) Ahhh. Ini ada tombolnya. Aku isi apa?
+47. Him: Loh gabisa mas.
+48. Me: Kamu isi semuanya.
+49. Him: Yaa sudah.
+50. Me: Coba buka yang kamu post...
+51. Him: Loohh Not found...
+52. Me: Oh yaudah. Makasih yaa, udah selesai!
+```
 ##### f. Transcript with Participant 6
 ```
 1.  Me  : Makasih Mas udah meluangkan waktunya buat wawancara

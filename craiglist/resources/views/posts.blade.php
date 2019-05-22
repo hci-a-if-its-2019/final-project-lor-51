@@ -23,7 +23,7 @@
 
                     @foreach ($posts as $post)
                     <div class="post post-row">
-                        <a class="post-img" href="{{url('forum/thread/'.'/' . $post->id)}}"><img
+                        <a class="post-img" href="{{url('forum/thread/' . $post->id)}}"><img
                                 src="{{asset('storage/' .$post->img_location)}}" alt=""></a>
                         <div class="post-body">
                             <div class="post-category">

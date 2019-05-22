@@ -7,7 +7,7 @@ use Illuminate\Database\Eloquent\Model;
 class Post extends Model
 {
     protected $table = 'post';
-    protected $fillable = ['title', 'body', 'rating', 'flag', 'category', 'img_location'];
+    protected $fillable = ['title', 'body', 'rating', 'user_id', 'flag', 'category', 'img_location'];
     
     public function comments() {
         return $this->hasMany('App\Comment');

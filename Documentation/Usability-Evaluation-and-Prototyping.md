@@ -198,11 +198,15 @@
 29. Me  : wah udah di rate ama flag aja
 30. Him : Oiya belum di perintahin ya mas, soalnya tombol nya berdekatan ku kira disuruh sekalian wkwk
 29. Me  : iya mas ini saya juga mau nyaranin mas buat ngelakuin itu tapi karna udah mas lakuin jadi yuasudah
-30. Me  : Mas Menurut mas bagaimana craiglist yang sekarang
-31. Him : Jelas sih mas, saya yang ngga banyak mengunjungi aplikasi lain juga bisa dengan mudah ngakses nya , yang kemarin tuh horror mas tulisan nya kecil" tampilan nya gajelas haha
-32. Me  : iya mas saya disini pingin memperbaiki website tersebut
-33. Me  : Makasih ya mas buat waktunya
-34 Him  : Oke mas sama" 
+33. Me  : sekarang coba mas bikin thread/diskusi baru judulnya Android phone
+34. Him : oke mas isinya terserah ya 
+35. Me  : iya mas gapapa
+37. Him : udah mas lancar
+38. Me  : Mas Menurut mas bagaimana craiglist yang sekarang
+39. Him : Jelas sih mas, saya yang ngga banyak mengunjungi aplikasi lain juga bisa dengan mudah ngakses nya , yang kemarin tuh horror mas tulisan nya kecil" tampilan nya gajelas haha
+40. Me  : iya mas saya disini pingin memperbaiki website tersebut
+41. Me  : Makasih ya mas buat waktunya
+42 Him  : Oke mas sama" 
 
 ```
 

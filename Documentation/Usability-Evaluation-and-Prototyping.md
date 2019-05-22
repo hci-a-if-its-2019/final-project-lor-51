@@ -11,6 +11,21 @@
 
 #### 2. Evaluation Script
 
+1. Try to Login.
+2. Find the category with the highest number of threads.
+3. Search a category.
+   - Keyword: Donald Trump
+4. Reply to a thread.
+5. Sort the forum
+   - Oldest first
+6. Rate a thread / reply.
+7. Flag a thread / reply.
+8. Create a new forum
+   - Title: Android Phone
+   - Body: Iphone is better than Android
+   - City: Choose any
+
+
 #### 3. Transcript
 ##### a. Transcript with Participant 1
 ##### b. Transcript with Participant 2

@@ -111,15 +111,8 @@
                                 <div class="row" style="display: none" id="comment-form{{$comment->id}}">
                                     <form class="post-reply" action="{{url('add/reply')}}" method="post">
                                         @csrf
-                                        <div class="media-body">
-                                            <div class="media-heading">
-                                                <div class="col-md-4">
-                                                    <div class="form-group">
-                                                        <input class="input" type="text" name="name" placeholder="Name">
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
+                                        <input type="hidden" name="post_id" value="{{$post->id}}">
+
                                         <div class="col-md-12">
                                             <div class="form-group">
                                                 <textarea class="input" name="message" placeholder="Message"></textarea>

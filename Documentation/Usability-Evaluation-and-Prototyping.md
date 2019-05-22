@@ -3,6 +3,11 @@
 ### Part A: Usability Evaluation
 #### 1. Brief Description of Participants
 ##### a. Description of Participant 1
+- A male, 21 years old.
+- A student of ITS Material Engineering.
+- He had experienced about using social media.
+- More than 3 years have account at online forums.
+- Never heard about Craiglist.
 ##### b. Description of Participant 2 
 - ITS Student
 - Male, 22 years old
@@ -10,10 +15,6 @@
 - Never heard of Craiglist forums
 - Use social media daily
 ##### c. Description of Participant 3
-- A male, 21 years old.
-- A student of ITS Material Engineering.
-- He had experienced about using social media.
-- More than 3 years have account at online forums.
 ##### d. Description of Participant 4
 ##### e. Description of Participant 5
 ##### f. Description of Participant 6
@@ -46,6 +47,28 @@
 
 #### 4. Transcript
 ##### a. Transcript with Participant 1
+```
+1.  Me  : Halo, sekarang saya meminta tolong anda untuk melakukan uji coba dengan forum Craiglist yang telah kelompok kami buat
+2.  Him : Okee
+3.  Me  : Sekarang anda login terlebih dahulu seperti biasa menggunakan akun ini (memberikan akun yang telah kami buat sebelumnya)
+4.  Him : Oke aku coba dulu,
+5.  Me  : Ada masalah?
+6.  Him : Nggak ada masalah, fine fine aja
+7.  Me  : Oke sekarang anda lihat kategori, lalu cari dengan jumlah thread yang paling tinggi
+8.  Him : Ini yang disampingnya itu jumlahnya kan? Kategori 'Fashion' yang paling banyak, ada 2 jumlahnya
+9.  Me  : Iya benar, menurut anda bagaimana?
+10. Him : Jelas kok, pas aku buka masing2 kategori jumlahnya juga sama persis dengan yang dituliskan
+11. Me  : Oke, sekarang kamu cari thread di kategori lifestyle, keywordnya 'Donald Trump' 
+12. Him : Ini udah muncul 2 post
+13. Me  : Bagaimana menurutmu?
+14. Him : Ini baru saja aku liat postnya, dan emang bener ada tulisan Donald trump nya, menurutku sudah akurat pencariannya
+15. Me  : Sekarang kamu buka salah satu thread, lalu reply thread itu
+16. Him : Thread yang mana?
+15. Me  : Apa aja gaapa
+16. Him : Oke, ini aku klik yang judulnya 'sunset'
+
+
+```
 ##### b. Transcript with Participant 2
 ```
 1. Me: Ujicoba ini adalah versi baru Craiglist forum. Untuk instruksi pertama, coba anda cari halaman login.

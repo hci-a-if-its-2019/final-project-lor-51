@@ -14,7 +14,13 @@
     <link type="text/css" rel="stylesheet" href="{{asset('callie/css/style.css')}}" />
     <link href="//cdn.quilljs.com/1.3.6/quill.snow.css" rel="stylesheet">
     <link href="//cdn.quilljs.com/1.3.6/quill.bubble.css" rel="stylesheet">
-
+    <style>
+        .categories-select {
+            margin-top: 10px;
+            background-color: #1b1c1e;
+            border: 2px solid #323335;
+        }
+    </style>
     @yield('style')
 </head>
 <body>

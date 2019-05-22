@@ -28,3 +28,5 @@ Route::get('categories/{name}/threads', 'PageController@viewPostCategories');
 
 Route::post('posts', 'PostsController@storePost');
 Route::get('forum/thread/{id}', 'PostsController@viewPost');
+Route::get('search/threads', 'PostsController@search');
+Route::get('forums/filter', 'PostsController@filter');

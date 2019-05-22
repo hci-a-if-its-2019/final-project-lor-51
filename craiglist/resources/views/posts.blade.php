@@ -32,7 +32,7 @@
                             <h3 class="post-title"><a href="{{url('forum/thread' . $post->id)}}">{{$post->title}}</a>
                             </h3>
                             <ul class="post-meta">
-                                <li><a href="#">John Doe</a></li>
+                                <li><a href="#">{{$post->user->name}}</a></li>
                                 <li>{{$post->created_at}}</li>
                             </ul>
                             <p>

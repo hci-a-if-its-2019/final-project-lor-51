@@ -20,6 +20,24 @@
         opacity: 0.6;
     }
 
+    .rate {
+        text-transform: uppercase;
+        display: inline-block;
+        padding: 5px 13px;
+        font-size: 12px;
+        font-weight: 700;
+        color: #fff;
+        background-color: #5cb85c;
+        border-radius: 2px;
+        -webkit-transition: 0.2s opacity;
+        transition: 0.2s opacity;
+        border: none;
+    }
+
+    .rate:hover {
+        opacity: 0.6;
+    }
+
 </style>
 @endsection
 
@@ -37,6 +55,11 @@
                     <img src="{{asset('storage/' .$post->img_location)}}" alt="" width="90%">
                     <h3>{{$post->title}}</h3>
                     {!! $post->body !!}
+                </div>
+
+                <div class="section-row">
+                    <button class="flag">Flag</button>
+                    <button class="btn btn-success rate">Rate</button>
                 </div>
                 <!-- /post content -->
 
@@ -120,43 +143,43 @@
                         <h3 class="title">Leave a reply</h3>
                     </div>
                     @if (Auth::check())
-                        <form class="post-post" action="{{url('add/comment')}}" method="post">
-                            @csrf
-                            <div class="row">
-                                {{-- <div class="col-md-4">
+                    <form class="post-post" action="{{url('add/comment')}}" method="post">
+                        @csrf
+                        <div class="row">
+                            {{-- <div class="col-md-4">
                                     <div class="form-group">
                                         <input class="input" type="text" name="name" placeholder="Name">
                                     </div>
                                 </div> --}}
-                                <div class="col-md-12">
-                                    <div class="form-group">
-                                        <div class="input message"></div>
-                                        {{-- <textarea class="input message" name="message" placeholder="Message"></textarea> --}}
-                                    </div>
-                                </div>
-                                <input type="hidden" name="post_id" value="{{$post->id}}">
-                                <input type="hidden" name="message">
-                                <div class="col-md-12">
-                                    <button class="primary-button" type="submit">Submit</button>
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <div class="input message"></div>
+                                    {{-- <textarea class="input message" name="message" placeholder="Message"></textarea> --}}
                                 </div>
                             </div>
-                        </form>
+                            <input type="hidden" name="post_id" value="{{$post->id}}">
+                            <input type="hidden" name="message">
+                            <div class="col-md-12">
+                                <button class="primary-button" type="submit">Submit</button>
+                            </div>
+                        </div>
+                    </form>
                     @else
-                        <form class="#" action="#">
-                            @csrf
-                            <div class="row">
-                                <div class="col-md-12">
-                                    <div class="form-group">
-                                        <div class="input message"></div>                                        
-                                    </div>
-                                </div>
-                                <input type="hidden" name="post_id" value="{{$post->id}}">
-                                <input type="hidden" name="message">
-                                <div class="col-md-12">
-                                    <button class="primary-button" type="button">Please log in to reply</button>
+                    <form class="#" action="#">
+                        @csrf
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <div class="input message"></div>
                                 </div>
                             </div>
-                        </form>
+                            <input type="hidden" name="post_id" value="{{$post->id}}">
+                            <input type="hidden" name="message">
+                            <div class="col-md-12">
+                                <button class="primary-button" type="button">Please log in to reply</button>
+                            </div>
+                        </div>
+                    </form>
                     @endif
                 </div>
                 <!-- /post reply -->
@@ -266,7 +289,7 @@
 
     $(".flag-save").click(function () {
         $(".modal").modal('hide');
-        swal("Done", "Comment has been flagged! Craiglist staff will review your report.", "success");
+        swal("Done", "Content has been flagged! Craiglist staff will review your report.", "success");
     });
 
 </script>

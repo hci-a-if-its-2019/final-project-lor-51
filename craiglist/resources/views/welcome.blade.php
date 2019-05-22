@@ -24,14 +24,14 @@
     <div class="container">
         <!-- row -->
         <div class="row">
-
+            <h3>Threads you may like</h3>
             <div class="col-md-8">
                 <div class="col-md-6">
                     <!-- post -->
                     @foreach ($posts1 as $post)
                         <div class="post post-widget">
                             <a class="post-img" href="{{url('forum/thread/', $post->id)}}"><img
-                                    src="{{asset('storage/' . $post->img_location)}}" alt=""></a>
+                                    src="{{asset('storage/' . $post->img_location)}}" alt="" width="300" height="100"></a>
                             <div class="post-body">
                                 <div class="post-category">
                                     <a href="categories/{{$post->category}}/threads">{{ucfirst($post->category)}}</a>
@@ -48,7 +48,7 @@
                         <!-- post -->
                         <div class="post post-widget">
                             <a class="post-img" href="{{url('forum/thread', $post->id)}}"><img
-                                    src="{{asset('storage/' . $post->img_location)}}" alt=""></a>
+                                    src="{{asset('storage/' . $post->img_location)}}" alt="" width="300" height="100"></a>
                             <div class="post-body">
                                 <div class="post-category">
                                     <a href="categories/{{$post->category}}/threads">{{ucfirst($post->category)}}</a>

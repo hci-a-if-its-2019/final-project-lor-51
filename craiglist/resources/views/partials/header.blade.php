@@ -25,8 +25,19 @@
                         <button class="aside-btn"><i class="fa fa-bars"></i></button>
                         <button class="search-btn"><i class="fa fa-search"></i></button>
                         <div id="nav-search">
-                            <form>
+                            <form action="{{url('search/threads')}}">
                                 <input class="input" name="search" placeholder="Enter your search...">
+                                <div class="form-group">
+                                    <select name="category" id="category" class="form-control categories-select">
+                                        <option value="All" selected>All</option>
+                                        <option value="Lifestyle">Lifestyle</option>
+                                        <option value="Fashion">Fashion</option>
+                                        <option value="Technology">Technology</option>
+                                        <option value="Travel">Travel</option>
+                                        <option value="Health">Health</option>
+                                    </select>
+                                </div>
+                                <button type="submit" class="btn" style="width: 100%">Search</button>
                             </form>
                             <button class="nav-close search-close">
                                 <span></span>

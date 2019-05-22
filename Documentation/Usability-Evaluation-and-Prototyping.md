@@ -1,5 +1,7 @@
 ## Operating the Prototype
 [![Craiglist](/img/thumbnail.jpg)](https://youtu.be/a8raFc1unX4)<br>
+##### Check Video:
+
 [Video](https://youtu.be/a8raFc1unX4)
 
 ### Part A: Usability Evaluation
@@ -365,12 +367,169 @@
 ```
 
 #### 4. Feedback and Incidence Analysis
-##### Observation 1
-##### Observation 2
-##### Observation 3
-##### Observation 4
+Example:
+P9#21: Participant 9, line 21
+
+##### Observation 1 (Login)
+![Login](../img/login.png)
+
+
+**Reference:**
+P1#6: fine fine aja
+P4#6: Seperti login pada umumnya 
+P2#6: Menurut saya sudah cukup jelas dan tidak ada kesulitan.
+P5#4: Ndak. Tinggal mengisi username dan password.
+**Feedback:**
+P2: Login is clear to use, self explanatory and user doesn’t have difficulty using it.
+P5: Easy to use. Just fill in username and password.
+**Incidence:** -
+**Reason:** -
+**Resolution:** -
+
+##### Observation 2 (Category with highest threads part 1)
+![Cat](../img/cat1.png)
+
+**Reference:**
+P1#10: Jelas kok, pas aku b…
+P3#10: Ada nomor di sebelah nya..
+P4#12: Okee, udah sama kok
+**Feedback:**
+P1: Positive
+P3: Positive
+P4: Positive
+**Incidence:** -
+**Reason:** -
+**Resolution:** -
+
+##### Observation 3 (Category with highest threads part 2)
+![Cat](../img/cat2.png)
+
+
+**Reference:** 
+P2#18: Iya, agar tertata baik, dan tidak rame. Kalo banyak, user seperti saya malas untuk membacanya
+P5#16: Iya. Biar ndak terlalu scroll panjang ke bawah.
+**Feedback:** 
+P2: Pagination helps by keeping the page tidy, by not crowding the page with text.
+P5: Post limit per page useful so the scroll down isn’t long.
+**Incidence:** -
+**Reason:** -
+**Resolution:** -
+
+
+
+##### Observation 4 (Search)
+![Search](../img/search.png)
+
+**Reference:**
+P2#26: Ini hasilnya ada 5. (Terjadi kesalahan pada aplikasi, yang tidak mengandung kata vegan tetap muncul).
+P2#30: Cukup mudah, search bar besar, mudah untuk diketik. Ada dropdown kategori untuk lebih spesifik.
+P5#21: Ndak. Karena ada didepan mata dan setiap halaman ada icon search.
+P5#23: Iya. Karena membantu untuk mencari post yang aku tertarik.
+
+**Feedback:**
+P2: the search bar is big, so it’s easy to type the keywords. The category dropdown helps to focus on a specific domain.
+P5: Each page has search icon so it’s easy.
+P5: Useful to find posts I’m interested in
+
+**Incidence:**
+P2: search results wrong
+
+**Reason:**
+System unable to search given keywords accurately
+
+**Resolution:** 
+Fix the keywords search by title and body
+
 ##### Observation 5
-##### Observation 6
+![Thread](../img/thread.png)
+
+**Reference:** 
+P1#17: ...dan kotaknya juga ikut sampai bawah sekali
+P2#34: Ini pilih yang mana?
+P2#38: Iya. Saya bingung yang dimaksud.
+P6#28: Agak bingung ama kotaknya
+
+**Feedback:**
+P1: Don't feel comfortable with the textbox.
+P2: Confuse which textbox to use.
+
+**Incidence:**
+P1: Height have no height limit
+P2: Doesn’t know which textbox to use
+
+**Reason:**
+P1: Textbox doesn't have max height.
+P2: 2 textboxes available in the comment section.
+
+**Resolution:**
+Give max height on textbox.
+Provide a single textbox.
+
+
+##### Observation 6 (Create new thread part 1)
+![Thread](../img/create.png)
+
+**Reference:**
+P2#42:Ini dimana ya, saya ndak tau tempatnya.
+P5#51: Loohh Not found...
+
+**Feedback:**
+P2: Add New Thread button was hard to find.
+P5: Couldn’t open the created post
+
+**Incidence:**
+P2: Doesn’t know where Add New Thread button was.
+P5: System gave a Not Found error
+
+**Reason:**
+P2: Add New Thread button was nested inside the category page.
+P5: Wrong url
+
+**Resolution:**
+P2: Give Add New Thread link in each page.
+P5: Fix URL for newly created post
+
+
+##### Observation 7 (Create new thread part 2)
+![Thread](../img/create2.png)
+
+**Reference:**
+P1#34: ...dan kotaknya juga ikut sampai bawah sekali
+P4#31: mudah dan nyaman buat dioperasikan
+
+**Feedback:**
+P1: Don't feel comfortable with the textbox.
+P4: Positive
+P4: Participant easy to operate
+
+**Incidence:**
+P1: Height have no height limit
+
+**Reason:**
+P1: Textbox doesn’t have max height.
+
+**Resolution:**
+Give max height on textbox.
+
+##### Observation 8 (Sort)
+![Sort](../img/sort.png)
+
+**Reference:**
+P2#52:Ini ada tanggal threadnya. Sudah benar, yang paling atas adalah yang terbaru (newest), dan kalo ini adalah yang tertua (oldest).
+P5#37: Loh ini beda. Tanggalnya campur-campur, ndak urut.
+
+**Feedback:**
+P2: No difficulty in sorting. The date on each thread can be used to know how “fresh” the thread is.
+P5: The date order is mixed.
+
+**Incidence:**
+P5 Sorting didn’t work because the post results are not sorted, evident by looking at the dates
+
+**Reason:**
+Sorting query wrong
+
+**Resolution:**
+Fix sorting query
 
 ### Part B: Prototyping
 ##### Sketch

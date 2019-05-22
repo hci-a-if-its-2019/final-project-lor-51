@@ -60,7 +60,7 @@
 								<li>{{$post->created_at}}</li>
 							</ul>
 							<p>
-								{!! str_limit($post->body, 250) !!}
+								{!! str_limit(strip_tags($post->body), 250) !!}
 							</p>
 						</div>
 					</div>					
@@ -111,89 +111,6 @@
                 <!-- /social widget -->
 
 				@include('partials.categories')
-
-                <!-- post widget -->
-                <div class="aside-widget">
-                    <div class="section-title">
-                        <h2 class="title">Popular Forums</h2>
-                    </div>
-                    <!-- post -->
-                    <div class="post post-widget">
-                        <a class="post-img" href="{{url('forum/thread')}}"><img
-                                src="{{asset('callie/img/widget-3.jpg')}}" alt=""></a>
-                        <div class="post-body">
-                            <div class="post-category">
-                                <a href="{{url('categories/lifestyle/threads')}}">Lifestyle</a>
-                            </div>
-                            <h3 class="post-title"><a href="{{url('forum/thread')}}">Ne bonorum praesent cum, labitur
-                                    persequeris definitionem quo cu?</a></h3>
-                        </div>
-                    </div>
-                    <!-- /post -->
-
-                    <!-- post -->
-                    <div class="post post-widget">
-                        <a class="post-img" href="{{url('forum/thread')}}"><img
-                                src="{{asset('callie/img/widget-2.jpg')}}" alt=""></a>
-                        <div class="post-body">
-                            <div class="post-category">
-                                <a href="{{url('categories/technology/threads')}}">Technology</a>
-                                <a href="{{url('categories/lifestyle/threads')}}">Lifestyle</a>
-                            </div>
-                            <h3 class="post-title"><a href="{{url('forum/thread')}}">Mel ut impetus suscipit tincidunt.
-                                    Cum id ullum laboramus persequeris.</a></h3>
-                        </div>
-                    </div>
-                    <!-- /post -->
-
-                    <!-- post -->
-                    <div class="post post-widget">
-                        <a class="post-img" href="{{url('forum/thread')}}"><img
-                                src="{{asset('callie/img/widget-4.jpg')}}" alt=""></a>
-                        <div class="post-body">
-                            <div class="post-category">
-                                <a href="{{url('categories/health/threads')}}">Health</a>
-                            </div>
-                            <h3 class="post-title"><a href="{{url('forum/thread')}}">Postea senserit id eos, vivendo
-                                    periculis ei qui</a></h3>
-                        </div>
-                    </div>
-                    <!-- /post -->
-
-                    <!-- post -->
-                    <div class="post post-widget">
-                        <a class="post-img" href="{{url('forum/thread')}}"><img
-                                src="{{asset('callie/img/widget-5.jpg')}}" alt=""></a>
-                        <div class="post-body">
-                            <div class="post-category">
-                                <a href="{{url('categories/health/threads')}}">Health</a>
-                                <a href="{{url('categories/lifestyle/threads')}}">Lifestyle</a>
-                            </div>
-                            <h3 class="post-title"><a href="{{url('forum/thread')}}">Sed ut perspiciatis, unde omnis
-                                    iste natus error sit</a></h3>
-                        </div>
-                    </div>
-                    <!-- /post -->
-                </div>
-                <!-- /post widget -->
-
-                <!-- galery widget -->
-                <div class="aside-widget">
-                    <div class="section-title">
-                        <h2 class="title">Instagram</h2>
-                    </div>
-                    <div class="galery-widget">
-                        <ul>
-                            <li><a href="#"><img src="{{asset('callie/img/galery-1.jpg')}}" alt=""></a></li>
-                            <li><a href="#"><img src="{{asset('callie/img/galery-2.jpg')}}" alt=""></a></li>
-                            <li><a href="#"><img src="{{asset('callie/img/galery-3.jpg')}}" alt=""></a></li>
-                            <li><a href="#"><img src="{{asset('callie/img/galery-4.jpg')}}" alt=""></a></li>
-                            <li><a href="#"><img src="{{asset('callie/img/galery-5.jpg')}}" alt=""></a></li>
-                            <li><a href="#"><img src="{{asset('callie/img/galery-6.jpg')}}" alt=""></a></li>
-                        </ul>
-                    </div>
-                </div>
-                <!-- /galery widget -->
 
                 <!-- Ad widget -->
                 <div class="aside-widget text-center">

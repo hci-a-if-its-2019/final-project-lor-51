@@ -36,7 +36,7 @@
                                 <li>{{$post->created_at}}</li>
                             </ul>
                             <p>
-                                {!! str_limit($post->body, 250) !!}
+                                {!! str_limit(strip_tags($post->body), 250) !!}
                             </p>
                         </div>
                     </div>

@@ -41,7 +41,8 @@ class PageController extends Controller
     	Comment::create([
           	'parent' => $request->parent,
           	'name' => Auth::user()->name,
-          	'message' => $request->message,
+			'message' => $request->message,
+			'post_id' => $request->post_id
       	]);
     	return redirect()->back();
 	}

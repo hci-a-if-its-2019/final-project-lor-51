@@ -20,6 +20,7 @@
         opacity: 0.6;
     }
 
+
     .rate {
         text-transform: uppercase;
         display: inline-block;
@@ -36,6 +37,9 @@
 
     .rate:hover {
         opacity: 0.6;
+    }
+    textarea {
+        resize: none; /* user can resize vertically, but width is fixed */
     }
 
 </style>
@@ -237,8 +241,11 @@
                     <label><input id="others" type="checkbox" value="">Others</label>
                 </div>
 
-                <textarea name="" id="others_text" cols="30" rows="10"
-                    style="display: none">Please specify your reasons</textarea>
+                <div class="form-group">
+                    <label for="exampleFormControlTextarea1">Please specify your reasons</label>
+                    <textarea name="" id="others_text" cols="30" rows="5" class="form-control" id="exampleFormControlTextarea1"></textarea>
+                </div>
+
             </div>
             <div class="modal-footer">
                 <button type="button" class="btn" data-dismiss="modal">Cancel</button>

@@ -17,21 +17,21 @@
 - Never heard of Craiglist forums
 - Use social media daily
 ##### c. Description of Participant 3
+- A male, 22 years old.
+- A student of ubaya
+- He had experienced about using social media / forum.
+- not realy enjoy socialising
 ##### d. Description of Participant 4
 - A male, 22 years old.
 - A student of Hang Tuah Ocean Engineering.
 - He had experienced about using social media.
 - Never heard about Craiglist.
 ##### e. Description of Participant 5
-A male, 22 years old.
-A student of ubaya
-He had experienced about using social media / forum.
-not realy enjoy socialising
 ##### f. Description of Participant 6
-A male, 21 years old.
-A student of ubaya
-He had experienced about using social media / forum.
-not realy enjoy socialising
+- A male, 21 years old.
+- A student of ubaya
+- He had experienced about using social media / forum.
+- Enjoy Using kaskus(Forum Discussion)
 
 #### 2. Preliminary Interview Questions
 1. Did you ever use soscial media before?

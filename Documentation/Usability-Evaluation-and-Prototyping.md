@@ -253,7 +253,6 @@
 31. Him : Sama kayak bikin post di medsos sih, mudah dan nyaman buat dioperasikan
 32. Me  : Oke, makasih ya udah bersedia buat ikut percobaan tentang Craiglist
 33. Him : Okes santai
-
 ```
 
 ##### e. Transcript with Participant 5

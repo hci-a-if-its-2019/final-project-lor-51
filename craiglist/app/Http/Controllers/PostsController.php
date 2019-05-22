@@ -34,9 +34,9 @@ class PostsController extends Controller
     public function search(Request $request) {
         if($request->category != 'All')
             $posts = Post::where('title', 'like', '%'.$request->search.'%')
-                    ->where('category', 'like', '%'.$request->category.'%')
+                    ->orWhere('category', 'like', '%'.$request->category.'%')
                     ->orWhere('body', 'like', '%'.$request->search.'%')
-                    ->where('category', 'like', '%'.$request->category.'%')->paginate(5);
+                    ->orWhere('category', 'like', '%'.$request->category.'%')->paginate(5);
         else
             $posts = Post::where('title', 'like', '%'.$request->search.'%')
             ->orWhere('body', 'like', '%'.$request->search.'%')->paginate(5);

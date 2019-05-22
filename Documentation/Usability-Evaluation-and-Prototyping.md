@@ -3,6 +3,10 @@
 ### Part A: Usability Evaluation
 #### 1. Brief Description of Participants
 ##### a. Description of Participant 1
+- A male, 21 years old.
+- A student of ITS Material Engineering.
+- He had experienced about using social media.
+- More than 3 years have account at online forums.
 ##### b. Description of Participant 2
 ##### c. Description of Participant 3
 ##### d. Description of Participant 4

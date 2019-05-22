@@ -65,8 +65,27 @@
 15. Me  : Sekarang kamu buka salah satu thread, lalu reply thread itu
 16. Him : Thread yang mana?
 15. Me  : Apa aja gaapa
-16. Him : Oke, ini aku klik yang judulnya 'sunset'
-
+16. Him : Oke, ini saya klik yang judulnya 'sunset'
+17. Him : Ini sudah saya reply, overall baik-baik saja dan tampilannya menyegarkan, tapi ada 1 hal yang kurang, waktu mengisi reply nya, saya tekan enter enter terus sampai bawah, dan kotaknya juga ikut sampai bawah sekali, lebih baik kalau diberi batasan
+18. Me  : Oiya benar, terimakasih sarannya
+19. Me  : Sekarang coba kamu urutkan forum dari yang 'older first'
+20. Him : Okee sudah, tinggal pilih older first lalu tekan go
+21. Me  : Menurut kamu gimana?
+22. Him : Biasa sih, mudah digunakan menurutku
+23. Me  : Sekarang kamu buka salah satu thread, lalu kamu rate
+24. Him : Okee sudah
+25. Me  : Ada masalah? bagaimana menurutmu?
+26. Him : Tidak ada, cukup unik popupnya setelah klik tombol rate
+27. Me  : Sekarang kamu flag thread tersebut
+28. Him : Okee tunggu
+29. Him : Sudah selesai, dan baik- baik saja
+30. Me  : Oke kalu begitu, sekarang kamu buat thread baru, apa saja
+31. Him : Okee tunggu
+32. Him : (3 menit mengetik) Ini sudah terbuat, judulnya 'pemandangan sore'
+33. Me  : Okee bagus wkwk, bagaimana menurutmu pembuatan threadnya?
+34. Him : Baik-baik saja, saranku sama seperti saat reply tadi, kotaknya jika diberi batana lebih baik.
+35. Me  : Okee terimakasih sarannya, terimakasih juga sudah bersedia mengikuti pengujian craiglist
+31. Him : Sama-sama
 
 ```
 ##### b. Transcript with Participant 2

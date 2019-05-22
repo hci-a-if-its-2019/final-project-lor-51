@@ -16,6 +16,10 @@
 - Use social media daily
 ##### c. Description of Participant 3
 ##### d. Description of Participant 4
+- A male, 22 years old.
+- A student of Hang Tuah Ocean Engineering.
+- He had experienced about using social media.
+- Never heard about Craiglist.
 ##### e. Description of Participant 5
 ##### f. Description of Participant 6
 
@@ -113,6 +117,50 @@
 
 ##### c. Transcript with Participant 3
 ##### d. Transcript with Participant 4
+```
+1.  Me  : Selamat malam, sekarang saya meminta tolong anda untuk melakukan uji coba dengan forum Craiglist yang telah kelompok kami buat
+2.  Him : Malam
+3.  Me  : Sekarang anda coba login menggunakan akun berikut (memberikan akun yag telah dibuat sebelumnya)
+4.  Him : Oke tunggu sebentar
+5.  Me  : Bagaimana loginnya? bagaimana tanggapanmu?
+6.  Him : Seperti login pada umumnya sih, tidak ada masalah, cuma mencari loginnya butuh penyesuaian, karena ada pada sidebar
+7.  Me  : Okee, skearang anda berada pada halaman awal, silahkan cari kategori yang memiliki thread paling banyak
+8.  Him : Hmm sepertinya kategori fashion (?)
+9.  Me  : Bagaimana anda tahu?
+10. Him : Disampinya ada nomor, kemungkinan itu jumlah threadnya, apa benar?
+11. Me  : Iya, berarti sudah jelas ya? silahkan dicek apakah sudah benar jumlahnya sesuai nomor tersebut?
+12. Him : Okee, udah sama kok, fashion ada 2, lifestyle ada 1
+13. Me  : Sip, sekarang coba anda cari dengan keyword 'Donald Trump'
+14. Him : Okee, ini udah muncul
+15. Me  : Silahkan dicek, apa sudah sesuai, dan bagaimana tanggapanmu?
+16. Him : Udah sesuai kok, ada kalimat donald trumpnya, menurutku sih udah pas dan sesuai, tapi misal saya ketik donald trimp gabakalan muncul ya?
+15. Me  : Tidak, silahkan dicoba 
+16. Him : Oiya tidak muncul
+17. Me  : Oke sekarang anda coba reply sebuah thread
+18. Him : Ini aku reply thread 'pemandangan sore'
+19. Me  : Bagaimana menurutmu?
+20. Him : Baik-baik aja sih, enak juga liat popunya
+21. Me  : Oke makasih, sekarang kamu buka forum dan sort by oldest 
+22. Him : Ini udah, cepet ya wkwk
+23. Me  : Wkwk, menurutmu bagaimana?
+24. Him : Ya tinggal pilih aja, mudah dioperasikan kok 
+25. Me  : Sekarang kamu coba rate thread atau reply
+26. Him : Okee, ini aku rate thread yang tadi ya, udah selesai
+27. Me  : Bagaimana menurutmu?
+28. Him : Mudah kok, tinggal klik, dan nyarinya juga gampang, warnanya beda, ini ada flag juga sebelahnya
+29. Me  : Hmm sekarang kamu coba rate
+30. Him : Udah kok wkwk, lancar
+31. Me  : Yaudah kalo lancar, gaada tambahan?
+32. Him : Udah kok, sama seperti flag tadi
+33. Me  : Nah sekarang kamu coba buat thread baru
+34. Him : Okee, ini aku buat thread kategori travel
+35. Me  : Bagaimana menurutmu?
+31. Him : Sama kayak bikin post di medsos sih, mudah dan nyaman buat dioperasikan
+32. Me  : Oke, makasih ya udah bersedia buat ikut percobaan tentang Craiglist
+33. Him : Okes santai
+
+```
+
 ##### e. Transcript with Participant 5
 ##### f. Transcript with Participant 6
 

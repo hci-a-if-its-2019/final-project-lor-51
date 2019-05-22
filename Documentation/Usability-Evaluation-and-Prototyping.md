@@ -3,6 +3,11 @@
 ### Part A: Usability Evaluation
 #### 1. Brief Description of Participants
 ##### a. Description of Participant 1
+- A male, 21 years old.
+- A student of ITS Material Engineering.
+- He had experienced about using social media.
+- More than 3 years have account at online forums.
+- Never heard about Craiglist.
 ##### b. Description of Participant 2 
 - ITS Student
 - Male, 22 years old
@@ -10,10 +15,6 @@
 - Never heard of Craiglist forums
 - Use social media daily
 ##### c. Description of Participant 3
-- A male, 21 years old.
-- A student of ITS Material Engineering.
-- He had experienced about using social media.
-- More than 3 years have account at online forums.
 ##### d. Description of Participant 4
 ##### e. Description of Participant 5
 ##### f. Description of Participant 6
@@ -46,6 +47,47 @@
 
 #### 4. Transcript
 ##### a. Transcript with Participant 1
+```
+1.  Me  : Halo, sekarang saya meminta tolong anda untuk melakukan uji coba dengan forum Craiglist yang telah kelompok kami buat
+2.  Him : Okee
+3.  Me  : Sekarang anda login terlebih dahulu seperti biasa menggunakan akun ini (memberikan akun yang telah kami buat sebelumnya)
+4.  Him : Oke aku coba dulu,
+5.  Me  : Ada masalah?
+6.  Him : Nggak ada masalah, fine fine aja
+7.  Me  : Oke sekarang anda lihat kategori, lalu cari dengan jumlah thread yang paling tinggi
+8.  Him : Ini yang disampingnya itu jumlahnya kan? Kategori 'Fashion' yang paling banyak, ada 2 jumlahnya
+9.  Me  : Iya benar, menurut anda bagaimana?
+10. Him : Jelas kok, pas aku buka masing2 kategori jumlahnya juga sama persis dengan yang dituliskan
+11. Me  : Oke, sekarang kamu cari thread di kategori lifestyle, keywordnya 'Donald Trump' 
+12. Him : Ini udah muncul 2 post
+13. Me  : Bagaimana menurutmu?
+14. Him : Ini baru saja aku liat postnya, dan emang bener ada tulisan Donald trump nya, menurutku sudah akurat pencariannya
+15. Me  : Sekarang kamu buka salah satu thread, lalu reply thread itu
+16. Him : Thread yang mana?
+15. Me  : Apa aja gaapa
+16. Him : Oke, ini saya klik yang judulnya 'sunset'
+17. Him : Ini sudah saya reply, overall baik-baik saja dan tampilannya menyegarkan, tapi ada 1 hal yang kurang, waktu mengisi reply nya, saya tekan enter enter terus sampai bawah, dan kotaknya juga ikut sampai bawah sekali, lebih baik kalau diberi batasan
+18. Me  : Oiya benar, terimakasih sarannya
+19. Me  : Sekarang coba kamu urutkan forum dari yang 'older first'
+20. Him : Okee sudah, tinggal pilih older first lalu tekan go
+21. Me  : Menurut kamu gimana?
+22. Him : Biasa sih, mudah digunakan menurutku
+23. Me  : Sekarang kamu buka salah satu thread, lalu kamu rate
+24. Him : Okee sudah
+25. Me  : Ada masalah? bagaimana menurutmu?
+26. Him : Tidak ada, cukup unik popupnya setelah klik tombol rate
+27. Me  : Sekarang kamu flag thread tersebut
+28. Him : Okee tunggu
+29. Him : Sudah selesai, dan baik- baik saja
+30. Me  : Oke kalu begitu, sekarang kamu buat thread baru, apa saja
+31. Him : Okee tunggu
+32. Him : (3 menit mengetik) Ini sudah terbuat, judulnya 'pemandangan sore'
+33. Me  : Okee bagus wkwk, bagaimana menurutmu pembuatan threadnya?
+34. Him : Baik-baik saja, saranku sama seperti saat reply tadi, kotaknya jika diberi batana lebih baik.
+35. Me  : Okee terimakasih sarannya, terimakasih juga sudah bersedia mengikuti pengujian craiglist
+31. Him : Sama-sama
+
+```
 ##### b. Transcript with Participant 2
 ```
 1. Me: Ujicoba ini adalah versi baru Craiglist forum. Untuk instruksi pertama, coba anda cari halaman login.

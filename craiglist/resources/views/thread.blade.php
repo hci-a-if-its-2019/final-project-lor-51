@@ -278,6 +278,10 @@
         $(".flag-modal").modal('show');
     });
 
+    $(".rate").click(function () {
+        swal("Done", "Thread has been rated!.", "success");
+    });
+
     $("#others").click(function () {
         let is_checked = $(this).is(":checked");
         if (is_checked) {

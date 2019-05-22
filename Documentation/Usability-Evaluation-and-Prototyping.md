@@ -200,6 +200,49 @@
 ```
 
 ##### e. Transcript with Participant 5
+```
+1. Me  : Makasih Mas udah meluangkan waktunya buat wawancara prototype terbaru craiglist setelah wawancara pada website craiglist senbelumnya
+2. Him : iya mas selow
+3.  Me  : mas sekarang coba login id passwordnya ada di notepad
+4.  Him : Oke tunggu sebentar
+5.  Me  : giamana mas login nya
+6.  Him : agak bingung sih mas awalnya soalnya login tidak di halaman utama tapi sebener nya ngga susah di temuin
+7.  Me  : Okee, skearang silahkan cari kategori yang memiliki thread paling banyak
+8.  Him : yang ini kan mas
+9.  Me  : Bagaimana anda tahu?
+10. Him : Ada nomer di samping nya itu menunjukkan jumlah tread nya kan?
+11. Me  : yup bener sekali susah kah menemukan nya?
+12. Him : ngga mas
+13. Me  : Sip, sekarang coba anda cari dengan keyword 'Donald Trump'
+14. Him : Okee, ini udah tapi not found
+15. Me  : mas untuk sistem pencarian nya huruf kecil besar nya harus diperhatikan lagi
+16. Him : oalah gitu ternyata
+17. Me  : susah kah mas menggunakan nya?
+18. Him : ngga sih mas cuma biasanya klo buat forum lebih enak nge discover gitu liat" apa yang menarik. 
+17. Me  : Oke sekarang coba mas buka 'Sunset'
+18. Him : ok mas , udah ni keren mas
+19. Me  : coba sekarang reply tread nya mas
+20. Him : dibawah kan mas ini ,udah mas
+21. Me  : oke mas sekarang coba ke halam utama lagi.
+22. Him : udah mas
+23. Me  : nah kan ini dari terbaru ke terlama, coba mas sort by oldest jadi yang terlama dulu
+24. Him : Ini udah
+23. Me  : menurutmas bagaimana?
+24. Him : ini tinggal di sort aja mau gimana , ez mas 
+25. Me  : haha , Sekarang mas coba rate thread yang tadi
+26. Him : Okee, udah selesai
+27. Me  : Bagaimana menurutmu?
+28. Him : keliahatan jelas mas , soalnya bentuk nya kaya tombol gitu warna nya beda
+29. Me  : wah udah di rate ama flag aja
+30. Him : Oiya belum di perintahin ya mas, soalnya tombol nya berdekatan ku kira disuruh sekalian wkwk
+29. Me  : iya mas ini saya juga mau nyaranin mas buat ngelakuin itu tapi karna udah mas lakuin jadi yuasudah
+30. Me  : Mas Menurut mas bagaimana craiglist yang sekarang
+31. Him : Jelas sih mas, saya yang ngga banyak mengunjungi aplikasi lain juga bisa dengan mudah ngakses nya , yang kemarin tuh horror mas tulisan nya kecil" tampilan nya gajelas haha
+32. Me  : iya mas saya disini pingin memperbaiki website tersebut
+33. Me  : Makasih ya mas buat waktunya
+34 Him  : Oke mas sama" 
+
+```
 ##### f. Transcript with Participant 6
 
 #### 4. Feedback and Incidence Analysis

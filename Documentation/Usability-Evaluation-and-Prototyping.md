@@ -244,6 +244,54 @@
 
 ```
 ##### f. Transcript with Participant 6
+```
+1.  Me  : Makasih Mas udah meluangkan waktunya buat wawancara
+2.  Him : iya mas emang lagi luang kok
+3.  Me  : mas saya tunjukan dulu aplikasi yang telah saya buat
+4.  Him : Bagus mas tampilan nya ini mas beneran yang bikin
+5.  Me  : Iya mas hehe
+6.  Me  : Coba mas sekarang login id password nya ada di notepad
+7.  Him : Oke tunggu sebentar
+8.  Me  : giamana mas login nya
+9.  Him : agak bingung sih mas awalnya tapi di atas kaya ada tombol buat extend ternyata disitu
+10. Me  : Okee, sekarang silahkan cari kategori yang memiliki thread paling banyak
+11. Him : yang ini kan mas
+12. Me  : Bagaimana anda tahu?
+13. Him : ini ada nomer nya
+14. Me  : Jelas ya mas berarti itu untuk jumlah thread nya
+15. Him : iya mas
+16. Me  : Sip, sekarang coba anda cari dengan keyword 'Donald Trump'
+17. Him : Okee, ini udah tapi not found
+18. Me  : mas untuk sistem pencarian nya huruf kecil besar nya harus diperhatikan lagi
+19. Him : oalah gitu ternyata
+20. Me  : susah kah mas menggunakan nya?
+21. Him : agak susah sih mas sebenrnya klo harus sama kalimat nya, tapi ngga ada masalah 
+22. Me  : Oke sekarang coba mas buka Thread 'Sunset'
+23. Him : ok mas , ada pop up nya mas baguss
+24. Me  : iya mas makasih
+25. Me  : coba sekarang reply tread nya mas
+26. Him : oke mas bentar ya
+27. Me  : Menurut mas gimana untuk komen nya
+28. Him : agak bingung mas soalnya ada 2 kotak kosong tadi tapi karna biasanya yang bawah say pilih yang bawah
+29. Me  : oke mas sekarang coba ke halam utama lagi.
+30. Him : udah mas
+31. Me  : nah kan ini dari terbaru ke terlama, coba mas sort by oldest jadi yang terlama dulu
+32. Him : Ini udah
+33. Me  : menurutmas bagaimana?
+34. Him : keliatan kok mas tombol sortnya ada di atas jadi ngga susah
+35. Me  : oke mas coba sekarang mas buka thread tadi terus rate thread nya
+36. Him : Okee, udah selesai
+37. Me  : Bagaimana menurutmu?
+38. Him : keliahatan jelas mas , soalnya bentuk nya kaya tombol gitu warna nya beda
+39. Me  : oke mas serkarang coba mas flag
+40. Him : oke mas udah btw flag itu buat apa I?
+41. Me  : Buat nandain aja sih mas sebenernya
+42. Me  : Bagaimana Pendapat nya soal website tadi
+43. Him : Bagus sih mas agak mirip ama kaskus tapi ini lebih jelasss, saya juga suka ama tampilan nya
+44. Me  : Makasih ya mas
+45 Him  : Oke mas
+
+```
 
 #### 4. Feedback and Incidence Analysis
 ##### Observation 1

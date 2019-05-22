@@ -86,7 +86,7 @@
                 </div>
                 <div class="form-group">
 					<label for="body">Body<small style="color: red"> *</small></label>
-                    <div class="body">
+                    <div class="body" style="height: 150px;">
 
                     </div>
                     <input type="hidden" name="body">

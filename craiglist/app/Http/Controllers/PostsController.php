@@ -47,9 +47,9 @@ class PostsController extends Controller
     public function filter(Request $request) {
         $cover = Post::first();
         if ($request->filter == 'nf')
-            $posts = Post::limit(5)->inRandomOrder()->orderBy('created_at', 'asc')->paginate(5);
+            $posts = Post::limit(5)->orderBy('created_at', 'asc')->paginate(5);
         else
-            $posts = Post::limit(5)->inRandomOrder()->orderBy('created_at', 'desc')->paginate(5);
+            $posts = Post::limit(5)->orderBy('created_at', 'desc')->paginate(5);
         return view('forums', ['cover' => $cover, 'posts' => $posts]);
     }
 }

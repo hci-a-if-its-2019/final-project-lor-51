@@ -375,4 +375,13 @@
 ### Part B: Prototyping
 ##### Sketch
 ##### Design Rationale
+From the evaluation, some of the users that participated had trouble with: 
+- wrong search results
+- height of wysiswig editor
+- multiple textarea in the comment section
+- hard to reach New Thread button
+- wrong sort results
+
+Therefore to act on the troubles mentioned above, our redesigned prototype will have a maximum textarea height, single textarea in the comment section, and New Thread link on each page.
+
 ##### High-Fidelity Interactive-Prototype

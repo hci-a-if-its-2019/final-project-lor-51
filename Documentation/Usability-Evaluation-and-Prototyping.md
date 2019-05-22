@@ -10,18 +10,22 @@
 - Never heard of Craiglist forums
 - Use social media daily
 ##### c. Description of Participant 3
+- A male, 21 years old.
+- A student of ITS Material Engineering.
+- He had experienced about using social media.
+- More than 3 years have account at online forums.
 ##### d. Description of Participant 4
 ##### e. Description of Participant 5
 ##### f. Description of Participant 6
 
 #### 2. Preliminary Interview Questions
 1. Did you ever use soscial media before?
-1. How often you use social media?
-1. Are you updated with new trends?
-1. Do you like to discuss new ideas?
-1. Have you used online discussions? How familiar are you with it?
-1. Do you usually discuss something in front of strangers?
-1. Do you prefer offline or online discussions?
+2. How often you use social media?
+3. Are you updated with new trends?
+4. Do you like to discuss new ideas?
+5. Have you used online discussions? How familiar are you with it?
+6. Do you usually discuss something in front of strangers?
+7. Do you prefer offline or online discussions?
 
 #### 3. Evaluation Script
 

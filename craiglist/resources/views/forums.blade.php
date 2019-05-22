@@ -8,14 +8,18 @@
         <div class="row">
             <div class="col-md-4">
                 <form action="{{url('forums/filter')}}">
-                    <div class="form-group">
-                        <label for="">Sort by:</label>
-                        <select name="filter" id="" class="form-control">
-                            <option value="nf">Newest First</option>
-                            <option value="of">Oldest First</option>
-                        </select>
+                    <div class="form-group row">
+                        <label for="" class="col-sm-4 col-form-label">Sort by:</label>
+                        <div class="col-sm-6">
+                            <select name="filter" id="" class="form-control">
+                                <option value="nf">Newest First</option>
+                                <option value="of">Oldest First</option>
+                            </select>
+                        </div>
+                        <div class="col-sm-2">
+                            <button class="btn btn-primary" type="submit">Go</button>
+                        </div>
                     </div>
-                    <button class="btn btn-primary" type="submit">Go</button>
                 </form>        
             </div>
         </div>

@@ -1,5 +1,7 @@
-
 ## Operating the Prototype
+[![Craiglist](/img/thumbnail.jpg)](https://youtu.be/a8raFc1unX4)<br>
+[Video](https://youtu.be/a8raFc1unX4)
+
 ### Part A: Usability Evaluation
 #### 1. Brief Description of Participants
 ##### a. Description of Participant 1

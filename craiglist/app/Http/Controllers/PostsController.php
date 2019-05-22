@@ -34,9 +34,9 @@ class PostsController extends Controller
     public function search(Request $request) {
         if($request->category != 'All')
             $posts = Post::where('title', 'like', '%'.$request->search.'%')
-                    ->where('category', 'like', '%'.$request->category.'%')
+                    ->orWhere('category', 'like', '%'.$request->category.'%')
                     ->orWhere('body', 'like', '%'.$request->search.'%')
-                    ->where('category', 'like', '%'.$request->category.'%')->paginate(5);
+                    ->orWhere('category', 'like', '%'.$request->category.'%')->paginate(5);
         else
             $posts = Post::where('title', 'like', '%'.$request->search.'%')
             ->orWhere('body', 'like', '%'.$request->search.'%')->paginate(5);
@@ -47,9 +47,9 @@ class PostsController extends Controller
     public function filter(Request $request) {
         $cover = Post::first();
         if ($request->filter == 'nf')
-            $posts = Post::limit(5)->inRandomOrder()->orderBy('created_at', 'asc')->paginate(5);
+            $posts = Post::limit(5)->orderBy('created_at', 'asc')->paginate(5);
         else
-            $posts = Post::limit(5)->inRandomOrder()->orderBy('created_at', 'desc')->paginate(5);
+            $posts = Post::limit(5)->orderBy('created_at', 'desc')->paginate(5);
         return view('forums', ['cover' => $cover, 'posts' => $posts]);
     }
 }

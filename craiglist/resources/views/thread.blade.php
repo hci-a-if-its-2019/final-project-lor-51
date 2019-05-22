@@ -135,7 +135,7 @@
                 <!-- /post comments -->
 
                 <!-- post reply -->
-                <div class="section-row">
+                <div class="section-row" id="wuaaa">
                     <div class="section-title">
                         <h3 class="title">Leave a reply</h3>
                     </div>
@@ -150,7 +150,7 @@
                                 </div> --}}
                             <div class="col-md-12">
                                 <div class="form-group">
-                                    <div class="input message"></div>
+                                    <div class="input message" style="height: 150px;"></div>
                                     {{-- <textarea class="input message" name="message" placeholder="Message"></textarea> --}}
                                 </div>
                             </div>
@@ -266,12 +266,14 @@
         id = $(this).data("id");
         $(this).hide();
         $('#comment-form' + id).show();
+        $('#wuaaa').hide();
     });
 
     $(".cancel").click(function () {
         id = $(this).data("id");
         $('#comment' + id).show();
         $('#comment-form' + id).hide();
+        $('#wuaaa').show();
     });
 
     $(".flag").click(function () {

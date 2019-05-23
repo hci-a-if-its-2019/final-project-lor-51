@@ -535,10 +535,15 @@ Fix sorting query
 ##### Sketch
 ##### Home
 ![Login](../img/sketch1.jpg)
+##### Categorize
 ![Login](../img/sketch2.jpg)
+##### Thread
 ![Login](../img/sketch3.jpg)
+##### Textbox limit
 ![Login](../img/sketch7.jpg)
+##### Reply Thread
 ![Login](../img/sketch4.jpg)
+##### comment
 ![Login](../img/sketch5.jpg)
 ##### Design Rationale
 From the evaluation, some of the users that participated had trouble with: 

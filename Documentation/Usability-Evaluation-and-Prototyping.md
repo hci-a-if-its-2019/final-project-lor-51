@@ -533,11 +533,12 @@ Fix sorting query
 
 ### Part B: Prototyping
 ##### Sketch
-![Login](../img/Sketch1.png)
-![Login](../img/sketch2.png)
-![Login](../img/sketch3.png)
-![Login](../img/sketch4.png)
-![Login](../img/sketch5.png)
+##### Home
+![Login](../img/Sketch1.jpg)
+![Login](../img/sketch2.jpg)
+![Login](../img/sketch3.jpg)
+![Login](../img/sketch4.jpg)
+![Login](../img/sketch5.jpg)
 ##### Design Rationale
 From the evaluation, some of the users that participated had trouble with: 
 - wrong search results

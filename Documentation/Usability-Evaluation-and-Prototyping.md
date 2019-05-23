@@ -534,9 +534,10 @@ Fix sorting query
 ### Part B: Prototyping
 ##### Sketch
 ##### Home
-![Login](../img/Sketch1.jpg)
+![Login](../img/sketch1.jpg)
 ![Login](../img/sketch2.jpg)
 ![Login](../img/sketch3.jpg)
+![Login](../img/sketch7.jpg)
 ![Login](../img/sketch4.jpg)
 ![Login](../img/sketch5.jpg)
 ##### Design Rationale
